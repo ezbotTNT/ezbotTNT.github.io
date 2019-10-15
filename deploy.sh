@@ -6,7 +6,7 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 hugo -t learn
 
 # Copy assets
-yes | cp -rf public
+yes | cp -rf assets public
 
 # Go To Public folder
 cd public
