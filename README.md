@@ -1,2 +1,0 @@
-# ezbotTNT
-> ezbotTNT Page
