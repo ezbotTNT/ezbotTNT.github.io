@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on New Dragon Hak</title>
+    <title>Categories on ezbot TNT</title>
     <link>https://ezbotTNT.github.io/categories/</link>
-    <description>Recent content in Categories on New Dragon Hak</description>
+    <description>Recent content in Categories on ezbot TNT</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ko</language>
     
 	<atom:link href="https://ezbotTNT.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     

@@ -1,14 +1,213 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>New Dragon Hak</title>
+    <title>ezbot TNT</title>
     <link>https://ezbotTNT.github.io/</link>
-    <description>Recent content on New Dragon Hak</description>
+    <description>Recent content on ezbot TNT</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ko</language>
     
 	<atom:link href="https://ezbotTNT.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bot 파일</title>
+      <link>https://ezbotTNT.github.io/4_install_file/1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezbotTNT.github.io/4_install_file/1/</guid>
+      <description>Thanks to the simplicity of Hugo, this page is as empty as this theme needs requirements.
+Just download latest version of Hugo binary (&amp;gt; 0.25) for your OS (Windows, Linux, Mac) : it&amp;rsquo;s that simple.</description>
+    </item>
+    
+    <item>
+      <title>레버리지</title>
+      <link>https://ezbotTNT.github.io/3_document/1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezbotTNT.github.io/3_document/1/</guid>
+      <description>Thanks to the simplicity of Hugo, this page is as empty as this theme needs requirements.
+Just download latest version of Hugo binary (&amp;gt; 0.25) for your OS (Windows, Linux, Mac) : it&amp;rsquo;s that simple.</description>
+    </item>
+    
+    <item>
+      <title>비트맥스 가입</title>
+      <link>https://ezbotTNT.github.io/2_how_to_install/1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezbotTNT.github.io/2_how_to_install/1/</guid>
+      <description>Thanks to the simplicity of Hugo, this page is as empty as this theme needs requirements.
+Just download latest version of Hugo binary (&amp;gt; 0.25) for your OS (Windows, Linux, Mac) : it&amp;rsquo;s that simple.</description>
+    </item>
+    
+    <item>
+      <title>사이트</title>
+      <link>https://ezbotTNT.github.io/1_intro/1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezbotTNT.github.io/1_intro/1/</guid>
+      <description>Thanks to the simplicity of Hugo, this page is as empty as this theme needs requirements.
+Just download latest version of Hugo binary (&amp;gt; 0.25) for your OS (Windows, Linux, Mac) : it&amp;rsquo;s that simple.</description>
+    </item>
+    
+    <item>
+      <title>자주 묻는 질문</title>
+      <link>https://ezbotTNT.github.io/5_qa/1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezbotTNT.github.io/5_qa/1/</guid>
+      <description>Thanks to the simplicity of Hugo, this page is as empty as this theme needs requirements.
+Just download latest version of Hugo binary (&amp;gt; 0.25) for your OS (Windows, Linux, Mac) : it&amp;rsquo;s that simple.</description>
+    </item>
+    
+    <item>
+      <title>Tester 툴 파일</title>
+      <link>https://ezbotTNT.github.io/4_install_file/2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezbotTNT.github.io/4_install_file/2/</guid>
+      <description>The following steps are here to help you initialize your new website. If you don&amp;rsquo;t know Hugo at all, we strongly suggest you learn more about it by following this great documentation for beginners.
+Create your project Hugo provides a new command to create a new website.
+hugo new site &amp;lt;new_project&amp;gt;  Install the theme Install the Hugo-theme-learn theme by following this documentation
+This theme&amp;rsquo;s repository is: https://github.com/matcornic/hugo-theme-learn.git
+Alternatively, you can download the theme as .</description>
+    </item>
+    
+    <item>
+      <title>그외 질문</title>
+      <link>https://ezbotTNT.github.io/5_qa/2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezbotTNT.github.io/5_qa/2/</guid>
+      <description>The following steps are here to help you initialize your new website. If you don&amp;rsquo;t know Hugo at all, we strongly suggest you learn more about it by following this great documentation for beginners.
+Create your project Hugo provides a new command to create a new website.
+hugo new site &amp;lt;new_project&amp;gt;  Install the theme Install the Hugo-theme-learn theme by following this documentation
+This theme&amp;rsquo;s repository is: https://github.com/matcornic/hugo-theme-learn.git
+Alternatively, you can download the theme as .</description>
+    </item>
+    
+    <item>
+      <title>봇 기능설명</title>
+      <link>https://ezbotTNT.github.io/1_intro/2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezbotTNT.github.io/1_intro/2/</guid>
+      <description>The following steps are here to help you initialize your new website. If you don&amp;rsquo;t know Hugo at all, we strongly suggest you learn more about it by following this great documentation for beginners.
+Create your project Hugo provides a new command to create a new website.
+hugo new site &amp;lt;new_project&amp;gt;  Install the theme Install the Hugo-theme-learn theme by following this documentation
+This theme&amp;rsquo;s repository is: https://github.com/matcornic/hugo-theme-learn.git
+Alternatively, you can download the theme as .</description>
+    </item>
+    
+    <item>
+      <title>봇과 연동하기</title>
+      <link>https://ezbotTNT.github.io/2_how_to_install/2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezbotTNT.github.io/2_how_to_install/2/</guid>
+      <description>The following steps are here to help you initialize your new website. If you don&amp;rsquo;t know Hugo at all, we strongly suggest you learn more about it by following this great documentation for beginners.
+Create your project Hugo provides a new command to create a new website.
+hugo new site &amp;lt;new_project&amp;gt;  Install the theme Install the Hugo-theme-learn theme by following this documentation
+This theme&amp;rsquo;s repository is: https://github.com/matcornic/hugo-theme-learn.git
+Alternatively, you can download the theme as .</description>
+    </item>
+    
+    <item>
+      <title>청산!!</title>
+      <link>https://ezbotTNT.github.io/3_document/2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezbotTNT.github.io/3_document/2/</guid>
+      <description>The following steps are here to help you initialize your new website. If you don&amp;rsquo;t know Hugo at all, we strongly suggest you learn more about it by following this great documentation for beginners.
+Create your project Hugo provides a new command to create a new website.
+hugo new site &amp;lt;new_project&amp;gt;  Install the theme Install the Hugo-theme-learn theme by following this documentation
+This theme&amp;rsquo;s repository is: https://github.com/matcornic/hugo-theme-learn.git
+Alternatively, you can download the theme as .</description>
+    </item>
+    
+    <item>
+      <title>Vm 설치하기</title>
+      <link>https://ezbotTNT.github.io/2_how_to_install/3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezbotTNT.github.io/2_how_to_install/3/</guid>
+      <description>Hugo-theme-learn has been built to be as configurable as possible by defining multiple partials
+In themes/hugo-theme-learn/layouts/partials/, you will find all the partials defined for this theme. If you need to overwrite something, don&amp;rsquo;t change the code directly. Instead follow this page. You&amp;rsquo;d create a new partial in the layouts/partials folder of your local project. This partial will have the priority.
+This theme defines the following partials :
+ header: the header of the content page (contains the breadcrumbs).</description>
+    </item>
+    
+    <item>
+      <title>테스터 툴</title>
+      <link>https://ezbotTNT.github.io/1_intro/3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezbotTNT.github.io/1_intro/3/</guid>
+      <description>Hugo-theme-learn has been built to be as configurable as possible by defining multiple partials
+In themes/hugo-theme-learn/layouts/partials/, you will find all the partials defined for this theme. If you need to overwrite something, don&amp;rsquo;t change the code directly. Instead follow this page. You&amp;rsquo;d create a new partial in the layouts/partials folder of your local project. This partial will have the priority.
+This theme defines the following partials :
+ header: the header of the content page (contains the breadcrumbs).</description>
+    </item>
+    
+    <item>
+      <title>포지션</title>
+      <link>https://ezbotTNT.github.io/3_document/3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezbotTNT.github.io/3_document/3/</guid>
+      <description>Hugo-theme-learn has been built to be as configurable as possible by defining multiple partials
+In themes/hugo-theme-learn/layouts/partials/, you will find all the partials defined for this theme. If you need to overwrite something, don&amp;rsquo;t change the code directly. Instead follow this page. You&amp;rsquo;d create a new partial in the layouts/partials folder of your local project. This partial will have the priority.
+This theme defines the following partials :
+ header: the header of the content page (contains the breadcrumbs).</description>
+    </item>
+    
+    <item>
+      <title>물타기</title>
+      <link>https://ezbotTNT.github.io/3_document/4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezbotTNT.github.io/3_document/4/</guid>
+      <description>Hugo-theme-learn has been built to be as configurable as possible by defining multiple partials
+In themes/hugo-theme-learn/layouts/partials/, you will find all the partials defined for this theme. If you need to overwrite something, don&amp;rsquo;t change the code directly. Instead follow this page. You&amp;rsquo;d create a new partial in the layouts/partials folder of your local project. This partial will have the priority.
+This theme defines the following partials :
+ header: the header of the content page (contains the breadcrumbs).</description>
+    </item>
+    
+    <item>
+      <title>텔레그램 연동</title>
+      <link>https://ezbotTNT.github.io/2_how_to_install/4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezbotTNT.github.io/2_how_to_install/4/</guid>
+      <description>Hugo-theme-learn has been built to be as configurable as possible by defining multiple partials
+In themes/hugo-theme-learn/layouts/partials/, you will find all the partials defined for this theme. If you need to overwrite something, don&amp;rsquo;t change the code directly. Instead follow this page. You&amp;rsquo;d create a new partial in the layouts/partials folder of your local project. This partial will have the priority.
+This theme defines the following partials :
+ header: the header of the content page (contains the breadcrumbs).</description>
+    </item>
+    
+    <item>
+      <title>안전설정 등등 설명</title>
+      <link>https://ezbotTNT.github.io/3_document/5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezbotTNT.github.io/3_document/5/</guid>
+      <description>Hugo-theme-learn has been built to be as configurable as possible by defining multiple partials
+In themes/hugo-theme-learn/layouts/partials/, you will find all the partials defined for this theme. If you need to overwrite something, don&amp;rsquo;t change the code directly. Instead follow this page. You&amp;rsquo;d create a new partial in the layouts/partials folder of your local project. This partial will have the priority.
+This theme defines the following partials :
+ header: the header of the content page (contains the breadcrumbs).</description>
+    </item>
+    
+    <item>
+      <title>옵션별 상세 기능설명</title>
+      <link>https://ezbotTNT.github.io/3_document/6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezbotTNT.github.io/3_document/6/</guid>
+      <description>Hugo-theme-learn has been built to be as configurable as possible by defining multiple partials
+In themes/hugo-theme-learn/layouts/partials/, you will find all the partials defined for this theme. If you need to overwrite something, don&amp;rsquo;t change the code directly. Instead follow this page. You&amp;rsquo;d create a new partial in the layouts/partials folder of your local project. This partial will have the priority.
+This theme defines the following partials :
+ header: the header of the content page (contains the breadcrumbs).</description>
+    </item>
     
   </channel>
 </rss>
