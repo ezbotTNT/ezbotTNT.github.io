@@ -1,6 +1,6 @@
 baseURL = "https://ezbotTNT.github.io/"
-languageCode = "en-us"
-title = "New Dragon Hak"
+languageCode = "ko"
+title = "ezbot TNT"
 theme = "learn"
 
 [author]
