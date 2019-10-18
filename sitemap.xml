@@ -57,6 +57,12 @@
   </url>
   
   <url>
+    <loc>https://ezbotTNT.github.io/3_document/2/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://ezbotTNT.github.io/1_intro/2_bot/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -64,12 +70,6 @@
   
   <url>
     <loc>https://ezbotTNT.github.io/3_document/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ezbotTNT.github.io/3_document/2/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -87,13 +87,13 @@
   </url>
   
   <url>
-    <loc>https://ezbotTNT.github.io/1_intro/3_tool/</loc>
+    <loc>https://ezbotTNT.github.io/3_document/3/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ezbotTNT.github.io/3_document/3/</loc>
+    <loc>https://ezbotTNT.github.io/1_intro/3_tool/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -105,19 +105,13 @@
   </url>
   
   <url>
-    <loc>https://ezbotTNT.github.io/3_document/4/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://ezbotTNT.github.io/2_how_to_install/3/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ezbotTNT.github.io/3_document/5/</loc>
+    <loc>https://ezbotTNT.github.io/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -130,12 +124,6 @@
   
   <url>
     <loc>https://ezbotTNT.github.io/tags/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ezbotTNT.github.io/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
