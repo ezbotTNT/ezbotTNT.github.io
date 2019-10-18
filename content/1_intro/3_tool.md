@@ -15,3 +15,4 @@ pre: "<b>3. </b>"
 - [동작 동영상](https://www.youtube.com/watch?v=COFrw0tHElc&feature=youtu.be&t=21)
 
 {{%attachments title="다운로드" pattern=".*(zip)"/%}}
+# 이거 백테스터툴 다운로드 링크로 바꿔야함 4.2
