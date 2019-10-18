@@ -41,7 +41,7 @@ pre: "<b>1. </b>"
 
 ![](/picture/position1.png?width=900&height=300)
 <p align="center">
-http://www.daankal.com/pfo/p04.html
+그림출처 : http://www.daankal.com/pfo/p04.html
 </P>
 
 - 매수(초록색) = 롱 포지션 = 진입가격보다 오를 것이라는 포지션을 구매

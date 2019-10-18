@@ -12,9 +12,9 @@ pre: "<b>3. </b>"
 
 효율적인 봇 이용을 위하여 백테스터 툴을 적극 활용 권장드립니다.
 
-- [벡터스터툴 동작 동영상](https://www.youtube.com/watch?v=COFrw0tHElc&feature=youtu.be&t=21)
+- [벡터스터 동작 동영상](https://www.youtube.com/watch?v=COFrw0tHElc&feature=youtu.be&t=21)
 
-[EZ-BackTest 툴 다운로드](4.2 링크)
+[EZ-BackTest 다운로드 페이지 바로가기](4.2 링크)
 
 
 ---
