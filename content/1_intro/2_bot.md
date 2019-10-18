@@ -4,11 +4,11 @@ weight: 15
 pre: "<b>2. </b>"
 ---
 
-![](/picture/EZBITMEX1.png?width=450&height=300)
+![](/picture/EZBITMEX1.png?width=800&height=450)
 
 ## EZBOT-BITMEX 란?
 
-이에 ***EZBOT-BITMEX***의 기본전략은 다음과 같습니다.
+이에 **EZBOT-BITMEX** 의 기본전략은 다음과 같습니다.
 
 - 높은 레버리지를 통해 높은 이익을 보는것이 목표가 아니라 한번 거래시 최소한의 안전한 레버리지로 **0.05 % ~ 0.1 %** 정도의 이익을 (비트코인의 보유 개수 증가) 보는것을 목표로 합니다.
 - EZBOT-BITMEX 봇이 차트를 24시간 주시하며, 안전하다고 판단하는 시점에 포지션을 오픈하며 해당 목표 수익률에 달성하면 포지션 종료를 하며 이익을 얻습니다.
@@ -26,3 +26,5 @@ pre: "<b>2. </b>"
 
 
 {{%attachments title="다운로드" pattern=".*(pdf)"/%}}
+
+---

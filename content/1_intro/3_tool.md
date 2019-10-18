@@ -4,7 +4,7 @@ weight: 20
 pre: "<b>3. </b>"
 ---
 
-![](/picture/Backtest1.png?width=550&height=300)
+![](/picture/Backtest1.png?width=800&height=450)
 
 백테스터 툴은 EZbot에 설정된 수치의 효율성을 판단하는데 도움이 되는 프로그램입니다.
 
@@ -12,7 +12,9 @@ pre: "<b>3. </b>"
 
 효율적인 봇 이용을 위하여 백테스터 툴을 적극 활용 권장드립니다.
 
-- [동작 동영상](https://www.youtube.com/watch?v=COFrw0tHElc&feature=youtu.be&t=21)
+- [벡터스터툴 동작 동영상](https://www.youtube.com/watch?v=COFrw0tHElc&feature=youtu.be&t=21)
 
-{{%attachments title="다운로드" pattern=".*(zip)"/%}}
-# 이거 백테스터툴 다운로드 링크로 바꿔야함 4.2
+[EZ-BackTest 툴 다운로드](4.2 링크)
+
+
+---

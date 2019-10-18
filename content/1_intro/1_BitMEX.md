@@ -5,8 +5,9 @@ pre: "<b>1. </b>"
 
 ---
 
-![](/picture/site1.png?width=800&height=450)
+![](/picture/site1.png?width=1200&height=500)
 
+---
 ## 가입하기
 
 **EZBOT-BITMEX** 봇은 아래 추천인 링크를 통해 가입한 경우에 한해 이용이 가능합니다.
@@ -38,7 +39,7 @@ pre: "<b>1. </b>"
 
 ## 포지션이란?
 
-![](/picture/position1.png?width=450&height=300)
+![](/picture/position1.png?width=900&height=300)
 <p align="center">
 http://www.daankal.com/pfo/p04.html
 </P>
@@ -46,7 +47,7 @@ http://www.daankal.com/pfo/p04.html
 - 매수(초록색) = 롱 포지션 = 진입가격보다 오를 것이라는 포지션을 구매
 - 매도(빨간색) = 숏 포지션 = 진입가격보다 가격이 내려갈 것이라는 포지션을 구매
 
----``
+---
 
 ## 비트맥스 
 
@@ -65,3 +66,4 @@ http://www.daankal.com/pfo/p04.html
 - 높은 레버리지를 통해 높은 이익을 보는것이 목표가 아니라 한번 거래시 최소한의 안전한 레버리지로 **0.05 % ~ 0.1 %** 정도의 이익을 (비트코인의 보유 개수 증가) 보는것을 목표로 합니다.
 - EZBOT-BITMEX 봇이 차트를 **24시간 주시**하며, **안전하다고 판단하는 시점**에 포지션을 오픈하며 해당 **목표 수익률**에 달성하면 포지션 종료를 하며 이익을 얻습니다.
 
+---
