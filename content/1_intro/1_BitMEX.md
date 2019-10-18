@@ -5,7 +5,7 @@ pre: "<b>1. </b>"
 
 ---
 
-![](/picture/site1.png?width=600&height=400)
+![](/picture/site1.png?width=450&height=300)
 
 ## 가입하기
 
@@ -13,7 +13,7 @@ pre: "<b>1. </b>"
 
 다른 링크 및 방법을 통해 가입하신 분들은 해당 링크로 재가입 부탁드립니다.
 
-가입 링크 : [https://www.bitmex.com/register ](https://www.bitmex.com/register/hsSSin)
+가입 링크 : [https://www.bitmex.com/register](https://www.bitmex.com/register/hsSSin)
 
 아래 설명은 [비트맥스 기능설명](https://www.bitcoinmaxmargin.com/)에서 제공하는 사이트 설명입니다.
 
