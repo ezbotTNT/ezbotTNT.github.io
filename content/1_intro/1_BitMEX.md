@@ -5,7 +5,7 @@ pre: "<b>1. </b>"
 
 ---
 
-![](/picture/site1.png?width=450&height=300)
+![](/picture/site1.png?width=800&height=450)
 
 ## 가입하기
 
