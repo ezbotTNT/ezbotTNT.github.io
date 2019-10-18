@@ -1,11 +1,11 @@
 ---
-title: BitMEX
+title: BitMEX.com 
 weight: 10
 pre: "<b>1. </b>"
 
 ---
 
-![](/picture/site1.png?width=1200&height=500)
+![](/picture/site1.png?width=1000&height=500)
 
 ---
 ## 가입하기
