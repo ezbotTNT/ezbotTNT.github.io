@@ -9,7 +9,7 @@
   </url>
   
   <url>
-    <loc>https://ezbotTNT.github.io/1_intro/1/</loc>
+    <loc>https://ezbotTNT.github.io/1_intro/1_bitmex/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -57,7 +57,7 @@
   </url>
   
   <url>
-    <loc>https://ezbotTNT.github.io/1_intro/2/</loc>
+    <loc>https://ezbotTNT.github.io/1_intro/2_bot/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -87,7 +87,7 @@
   </url>
   
   <url>
-    <loc>https://ezbotTNT.github.io/1_intro/3/</loc>
+    <loc>https://ezbotTNT.github.io/1_intro/3_tool/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

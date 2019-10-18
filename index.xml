@@ -12,13 +12,13 @@
     
     <item>
       <title>BitMEX</title>
-      <link>https://ezbotTNT.github.io/1_intro/1/</link>
+      <link>https://ezbotTNT.github.io/1_intro/1_bitmex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ezbotTNT.github.io/1_intro/1/</guid>
+      <guid>https://ezbotTNT.github.io/1_intro/1_bitmex/</guid>
       <description>가입하기 EZBOT-BITMEX 봇은 아래 추천인 링크를 통해 가입한 경우에 한해 이용이 가능합니다.
 다른 링크 및 방법을 통해 가입하신 분들은 해당 링크로 재가입 부탁드립니다.
-가입 링크 : https://www.bitmex.com/register 
+가입 링크 : https://www.bitmex.com/register
 아래 설명은 비트맥스 기능설명에서 제공하는 사이트 설명입니다.
  비트맥스는 비트코인을 활용한 다양한 파생상품 레버리지 계약의 매매 정보를 제공하는 P2P 방식의 거래 플랫폼. 비트맥스에서의 거래는 오로지 비트코인만을 취급하기 때문에,다른 알트코인에 대한 매매가 있더라도 모든 손익은 비트코인에 해당하게 됩니다. 비트맥스에서의 거래는 높은 레버리지 기반의 계약을 허용하고 있습니다.</description>
     </item>
@@ -99,10 +99,10 @@ Alternatively, you can download the theme as .</description>
     
     <item>
       <title>봇 기능설명</title>
-      <link>https://ezbotTNT.github.io/1_intro/2/</link>
+      <link>https://ezbotTNT.github.io/1_intro/2_bot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ezbotTNT.github.io/1_intro/2/</guid>
+      <guid>https://ezbotTNT.github.io/1_intro/2_bot/</guid>
       <description>EZBOT-BITMEX 란? 이에 EZBOT-BITMEX의 기본전략은 다음과 같습니다.
  높은 레버리지를 통해 높은 이익을 보는것이 목표가 아니라 한번 거래시 최소한의 안전한 레버리지로 0.05 % ~ 0.1 % 정도의 이익을 (비트코인의 보유 개수 증가) 보는것을 목표로 합니다. EZBOT-BITMEX 봇이 차트를 24시간 주시하며, 안전하다고 판단하는 시점에 포지션을 오픈하며 해당 목표 수익률에 달성하면 포지션 종료를 하며 이익을 얻습니다.  기본 인터페이스 및 기능 소개 봇 기본 설정을 마치고 돌아가고 있을때 다음과 같이 작동합니다.</description>
     </item>
@@ -144,14 +144,14 @@ Alternatively, you can download the theme as .</description>
     
     <item>
       <title>테스터 툴</title>
-      <link>https://ezbotTNT.github.io/1_intro/3/</link>
+      <link>https://ezbotTNT.github.io/1_intro/3_tool/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ezbotTNT.github.io/1_intro/3/</guid>
+      <guid>https://ezbotTNT.github.io/1_intro/3_tool/</guid>
       <description>백테스터 툴은 EZbot에 설정된 수치의 효율성을 판단하는데 도움이 되는 프로그램입니다.
 적용된 로직은 EZBOT-BITMEX와 완전 동일하며, 과거 차트 데이터를 통해 봇에 적용할 설정에 대한 수익률 및 위험도를 판단 가능합니다.
 효율적인 봇 이용을 위하여 백테스터 툴을 적극 활용 권장드립니다.
- 동작동영상 동영상    다운로드   Picture.zip  (6074 ko)    </description>
+ 동작 동영상    다운로드   Picture.zip  (6074 ko)    </description>
     </item>
     
     <item>
