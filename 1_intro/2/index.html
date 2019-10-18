@@ -12,18 +12,18 @@
     <title>봇 기능설명 :: ezbot TNT</title>
 
     
-    <link href="/css/nucleus.css?1571360847" rel="stylesheet">
-    <link href="/css/fontawesome-all.min.css?1571360847" rel="stylesheet">
-    <link href="/css/hybrid.css?1571360847" rel="stylesheet">
-    <link href="/css/featherlight.min.css?1571360847" rel="stylesheet">
-    <link href="/css/perfect-scrollbar.min.css?1571360847" rel="stylesheet">
-    <link href="/css/auto-complete.css?1571360847" rel="stylesheet">
-    <link href="/css/atom-one-dark-reasonable.css?1571360847" rel="stylesheet">
-    <link href="/css/theme.css?1571360847" rel="stylesheet">
-    <link href="/css/hugo-theme.css?1571360847" rel="stylesheet">
+    <link href="/css/nucleus.css?1571362659" rel="stylesheet">
+    <link href="/css/fontawesome-all.min.css?1571362659" rel="stylesheet">
+    <link href="/css/hybrid.css?1571362659" rel="stylesheet">
+    <link href="/css/featherlight.min.css?1571362659" rel="stylesheet">
+    <link href="/css/perfect-scrollbar.min.css?1571362659" rel="stylesheet">
+    <link href="/css/auto-complete.css?1571362659" rel="stylesheet">
+    <link href="/css/atom-one-dark-reasonable.css?1571362659" rel="stylesheet">
+    <link href="/css/theme.css?1571362659" rel="stylesheet">
+    <link href="/css/hugo-theme.css?1571362659" rel="stylesheet">
     
 
-    <script src="/js/jquery-3.3.1.min.js?1571360847"></script>
+    <script src="/js/jquery-3.3.1.min.js?1571362659"></script>
 
     <style>
       :root #header + #content > #left > #rlblock_left{
@@ -68,14 +68,14 @@
     <span data-search-clear=""><i class="fas fa-times"></i></span>
 </div>
 
-<script type="text/javascript" src="/js/lunr.min.js?1571360847"></script>
-<script type="text/javascript" src="/js/auto-complete.js?1571360847"></script>
+<script type="text/javascript" src="/js/lunr.min.js?1571362659"></script>
+<script type="text/javascript" src="/js/auto-complete.js?1571362659"></script>
 <script type="text/javascript">
     
         var baseurl = "https:\/\/ezbotTNT.github.io\/";
     
 </script>
-<script type="text/javascript" src="/js/search.js?1571360847"></script>
+<script type="text/javascript" src="/js/search.js?1571362659"></script>
 
     
   </div>
@@ -609,15 +609,8 @@
 <ul>
 <li><a href="#ezbot-bitmex-란">EZBOT-BITMEX 란?</a>
 <ul>
-<li><a href="#기본-인터페이스-및-기능-소개입니다">기본 인터페이스 및 기능 소개입니다.</a></li>
+<li><a href="#기본-인터페이스-및-기능-소개">기본 인터페이스 및 기능 소개</a></li>
 </ul></li>
-<li><a href="#create-your-project">Create your project</a></li>
-<li><a href="#install-the-theme">Install the theme</a></li>
-<li><a href="#basic-configuration">Basic configuration</a></li>
-<li><a href="#create-your-first-chapter-page">Create your first chapter page</a></li>
-<li><a href="#create-your-first-content-pages">Create your first content pages</a></li>
-<li><a href="#launching-the-website-locally">Launching the website locally</a></li>
-<li><a href="#build-the-website">Build the website</a></li>
 </ul></li>
 </ul>
 </nav>
@@ -646,122 +639,31 @@
 
 
 
-<p><img src="/site/Picture/EZBITMEX1.png" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/></p>
+<p><img src="/picture/EZBITMEX1.png?width=450&amp;height=300" alt="" /></p>
 
 <h2 id="ezbot-bitmex-란">EZBOT-BITMEX 란?</h2>
 
-<p>이에 <code>EZBOT-BITMEX</code>의 기본전략을 다음과 같습니다.
-
-높은 레버리지를 통해 높은 이익을 보는것이 목표가 아니라 한번 거래시 최소한의 안전한 레버리지로 <strong>0.05 % ~ 0.1 %</strong> 정도의 이익을 (비트코인의 보유 개수 증가) 보는것을 목표로 합니다.
-
-EZBOT-BITMEX 봇이 차트를 24시간 주시하며, 안전하다고 판단하는 시점에 포지션을 오픈하며 해당 목표 수익률에 달성하면 포지션 종료를 하며 이익을 얻습니다.</p>
+<p>이에 <code>EZBOT-BITMEX</code>의 기본전략은 다음과 같습니다.</p>
 
-<h3 id="기본-인터페이스-및-기능-소개입니다">기본 인터페이스 및 기능 소개입니다.</h3>
+<ul>
+<li>높은 레버리지를 통해 높은 이익을 보는것이 목표가 아니라 한번 거래시 최소한의 안전한 레버리지로 <strong>0.05 % ~ 0.1 %</strong> 정도의 이익을 (비트코인의 보유 개수 증가) 보는것을 목표로 합니다.</li>
+<li>EZBOT-BITMEX 봇이 차트를 24시간 주시하며, 안전하다고 판단하는 시점에 포지션을 오픈하며 해당 목표 수익률에 달성하면 포지션 종료를 하며 이익을 얻습니다.</li>
+</ul>
+
+<h3 id="기본-인터페이스-및-기능-소개">기본 인터페이스 및 기능 소개</h3>
 
 <p>봇 기본 설정을 마치고 돌아가고 있을때 다음과 같이 작동합니다.</p>
 
-<p>1. 간편설정 - 기본적으로 제공하는 옵션과 자신이 사용중인 옵션에 대해 프리셋으로 저장 가능합니다.
-2. 포지션 진입설정 - 원하는 종목, 포지션 방식, 레버리지 비율, 갭을 선택합니다.
-3. 포지션 정리설정 - 포지션을 정리하는 방법에 대해 설정합니다.
-4. 물타기 설정 - 원하는 형태와 반대로 가격이 이동할때 평가 단가를 낮추기 위하여 물타기를 설정합니다.
-5. 손절매 설정 - 청산을 당하지 않기 위해서 손절을 하거나 동적정리 방법을 설정합니다.</p>
+<p>1. 간편설정: 기본적으로 제공하는 옵션과 자신이 사용중인 옵션에 대해 프리셋으로 저장 가능합니다.
+2. 포지션 진입설정: 원하는 종목, 포지션 방식, 레버리지 비율, 갭을 선택합니다.
+3. 포지션 정리설정: 포지션을 정리하는 방법에 대해 설정합니다.
+4. 물타기 설정: 원하는 형태와 반대로 가격이 이동할때 평가 단가를 낮추기 위하여 물타기를 설정합니다.
+5. 손절매 설정: 청산을 당하지 않기 위해서 손절을 하거나 동적정리 방법을 설정합니다.</p>
 
-<p>다운로드 링크 : [다운로드 링크]()
-사용 설명서 링크 : [다운로드 링크]() 이거어케하냐? 다운로드파일을 올려야함?</p>
-
-<p>The following steps are here to help you initialize your new website. If you don&rsquo;t know Hugo at all, we strongly suggest you learn more about it by following this <a href="https://gohugo.io/overview/quickstart/">great documentation for beginners</a>.</p>
-
-<h2 id="create-your-project">Create your project</h2>
-
-<p>Hugo provides a <code>new</code> command to create a new website.</p>
-
-<pre><code>hugo new site &lt;new_project&gt;
-</code></pre>
-
-<h2 id="install-the-theme">Install the theme</h2>
-
-<p>Install the <strong>Hugo-theme-learn</strong> theme by following <a href="https://gohugo.io/themes/installing/">this documentation</a></p>
-
-<p>This theme&rsquo;s repository is: <a href="https://github.com/matcornic/hugo-theme-learn.git">https://github.com/matcornic/hugo-theme-learn.git</a></p>
-
-<p>Alternatively, you can <a href="https://github.com/matcornic/hugo-theme-learn/archive/master.zip">download the theme as .zip</a> file and extract it in the <code>themes</code> directory</p>
-
-<h2 id="basic-configuration">Basic configuration</h2>
-
-<p>When building the website, you can set a theme by using <code>--theme</code> option. However, we suggest you modify the configuration file (<code>config.toml</code>) and set the theme as the default. You can also add the <code>[outputs]</code> section to enable the search functionality.</p>
-
-<pre><code class="language-toml"># Change the default theme to be use when building the site with Hugo
-theme = &quot;hugo-theme-learn&quot;
-
-# For search functionality
-[outputs]
-home = [ &quot;HTML&quot;, &quot;RSS&quot;, &quot;JSON&quot;]
-</code></pre>
-
-<h2 id="create-your-first-chapter-page">Create your first chapter page</h2>
-
-<p>Chapters are pages that contain other child pages. It has a special layout style and usually just contains a <em>chapter name</em>, the <em>title</em> and a <em>brief abstract</em> of the section.</p>
-
-<pre><code>### Chapter 1
-
-# Basics
-
-Discover what this Hugo theme is all about and the core concepts behind it.
-</code></pre>
-
-<p>renders as</p>
-
-<p><img src="/en/basics/installation/images/chapter.png?classes=shadow&amp;width=60pc" alt="A Chapter" /></p>
-
-<p><strong>Hugo-theme-learn</strong> provides archetypes to create skeletons for your website. Begin by creating your first chapter page with the following command</p>
-
-<pre><code>hugo new --kind chapter basics/_index.md
-</code></pre>
-
-<p>By opening the given file, you should see the property <code>chapter=true</code> on top, meaning this page is a <em>chapter</em>.</p>
-
-<p>By default all chapters and pages are created as a draft. If you want to render these pages, remove the property <code>draft: true</code> from the metadata.</p>
-
-<h2 id="create-your-first-content-pages">Create your first content pages</h2>
-
-<p>Then, create content pages inside the previously created chapter. Here are two ways to create content in the chapter:</p>
-
-<pre><code>hugo new basics/first-content.md
-hugo new basics/second-content/_index.md
-</code></pre>
-
-<p>Feel free to edit thoses files by adding some sample content and replacing the <code>title</code> value in the beginning of the files.</p>
-
-<h2 id="launching-the-website-locally">Launching the website locally</h2>
-
-<p>Launch by using the following command:</p>
-
-<pre><code>hugo serve
-</code></pre>
-
-<p>Go to <code>http://localhost:1313</code></p>
-
-<p>You should notice three things:</p>
-
-<ol>
-<li>You have a left-side <strong>Basics</strong> menu, containing two submenus with names equal to the <code>title</code> properties in the previously created files.</li>
-<li>The home page explains how to customize it by following the instructions.</li>
-<li>When you run <code>hugo serve</code>, when the contents of the files change, the page automatically refreshes with the changes. Neat!</li>
-</ol>
-
-<h2 id="build-the-website">Build the website</h2>
-
-<p>When your site is ready to deploy, run the following command:</p>
-
-<pre><code>hugo
-</code></pre>
-
-<p>A <code>public</code> folder will be generated, containing all static content and assets for your website. It can now be deployed on any web server.</p>
-
-
-<div class="notices note" ><p>This website can be automatically published and hosted with <a href="https://www.netlify.com/">Netlify</a> (Read more about <a href="https://www.netlify.com/blog/2015/07/30/hosting-hugo-on-netlifyinsanely-fast-deploys/">Automated HUGO deployments with Netlify</a>). Alternatively, you can use <a href="https://gohugo.io/hosting-and-deployment/hosting-on-github/">Github pages</a></p>
-</div>
-
+<ul>
+<li>다운로드: [다운로드]()</li>
+<li>사용 설명서: <a href="https://github.com/ezbotTNT/ezbotTNT.github.io/tree/develop/files/봇의_구매_개념_설명.pdf">다운로드</a></li>
+</ul>
 
 
 <footer class=" footline" >
@@ -1145,19 +1047,19 @@ hugo new basics/second-content/_index.md
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
       <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
-    <script src="/js/clipboard.min.js?1571360847"></script>
-    <script src="/js/perfect-scrollbar.min.js?1571360847"></script>
-    <script src="/js/perfect-scrollbar.jquery.min.js?1571360847"></script>
-    <script src="/js/jquery.sticky.js?1571360847"></script>
-    <script src="/js/featherlight.min.js?1571360847"></script>
-    <script src="/js/highlight.pack.js?1571360847"></script>
+    <script src="/js/clipboard.min.js?1571362659"></script>
+    <script src="/js/perfect-scrollbar.min.js?1571362659"></script>
+    <script src="/js/perfect-scrollbar.jquery.min.js?1571362659"></script>
+    <script src="/js/jquery.sticky.js?1571362659"></script>
+    <script src="/js/featherlight.min.js?1571362659"></script>
+    <script src="/js/highlight.pack.js?1571362659"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <script src="/js/modernizr.custom-3.6.0.js?1571360847"></script>
-    <script src="/js/learn.js?1571360847"></script>
-    <script src="/js/hugo-learn.js?1571360847"></script>
+    <script src="/js/modernizr.custom-3.6.0.js?1571362659"></script>
+    <script src="/js/learn.js?1571362659"></script>
+    <script src="/js/hugo-learn.js?1571362659"></script>
 
-    <link href="/mermaid/mermaid.css?1571360847" rel="stylesheet" />
-    <script src="/mermaid/mermaid.js?1571360847"></script>
+    <link href="/mermaid/mermaid.css?1571362659" rel="stylesheet" />
+    <script src="/mermaid/mermaid.js?1571362659"></script>
     <script>
         mermaid.initialize({ startOnLoad: true });
     </script>
