@@ -14,7 +14,7 @@ pre: "<b>3. </b>"
 
 - [벡터스터 동작 동영상](https://www.youtube.com/watch?v=COFrw0tHElc&feature=youtu.be&t=21)
 
-[EZ-BackTest 다운로드 페이지 바로가기](4.2 링크)
+[EZ-BackTest 다운로드 페이지 바로가기](/4_install_file/tester_tool_file/)
 
 
 ---
