@@ -1,10 +1,10 @@
 ---
-title: 패치 관련 정보입니다.
+title: 툴 업데이트 노트
 weight: 25
-pre: "<b>5. </b>"
+pre: "<b>6. </b>"
 chapter: true
 ---
 
 ### Q&A
 
-[툴 패치 노트](6.1 링크)</br>
+[BitMEX 패치 노트](/6.-패치노트/1/)</br>
