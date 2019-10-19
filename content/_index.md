@@ -1,3 +1,4 @@
+
 # 이것은 메인페이지입니다.
 
 ## 봇 이란 무엇인가요?
@@ -5,6 +6,43 @@
 BOT이란, 미리 정해진 로직에 의해 매수와 매도를 자동으로 해주는 프로그램을 말합니다. </br>
 암호화폐 시장은 24시간 쉬는 시간 없이 매매가 이뤄지기 때문에 사람이 매 순간 시장에 참여하여 거래를 하는 것은 불가능 합니다.</br>
 하지만 Ez-bitmex 은 프로그램이 동작하는 동안 매 순간 시장을 감시하여 최적의 순간에 매수와 매도를 진행합니다. 
+
+
+<h1>Test</h1>
+<div>
+<div class="container">
+					<div class="banner-content">
+						<div class="row align-items-center mobile-center">
+							<div class="col-lg-6 col-md-12 order-lg-first ">
+								<div class="header-txt">
+									<h2 class="animated fadeInUp" data-animate="fadeInUp" data-delay="1.55" style="visibility: visible; animation-delay: 1.55s;"><span>EZ BOT</span>과 함께<br> 안정적인 수익을 만드세요.</h2>
+									<p class="lead color-secondary animated fadeInUp" data-animate="fadeInUp" data-delay="1.65" style="visibility: visible; animation-delay: 1.65s;">HODL족을 위한 최고의 솔루션</p>
+									<ul class="btns animated fadeInUp" data-animate="fadeInUp" data-delay="1.75" style="visibility: visible; animation-delay: 1.75s;">
+										<li><a class="btn" href="/Account/Register">회원가입</a></li>
+										<li><a href="http://cafe.naver.com/ezbot24" target="_blank" class="btn btn-secondary">네이버 카페 바로가기</a></li>
+									</ul>
+									<h2 class="animated fadeInUp" data-animate="fadeInUp" data-delay="1.55" style="visibility: visible; animation-delay: 1.55s;"><span>EZ BOT</span>의 새로운 봇</h2>
+									<p class="lead color-secondary animated fadeInUp" data-animate="fadeInUp" data-delay="1.65" style="visibility: visible; animation-delay: 1.65s;">베타 서비스</p>
+									<ul class="btns animated fadeInUp" data-animate="fadeInUp" data-delay="1.75" style="visibility: visible; animation-delay: 1.75s;">
+										<li><a href="/BitMEX" target="_blank" class="btn btn-float-lg"><h1>EZBOT-BITMEX</h1></a></li>
+									</ul>
+								</div>
+							</div><!-- .col  -->
+							<div class="col-lg-6 col-md-12 order-first">
+								<div class="header-image animated fadeInRight" data-animate="fadeInRight" data-delay="1.25" style="visibility: visible; animation-delay: 1.25s;">
+									<img src="http://www.ezbot24.com/ico-crypto-html-v1.2.3/images/header-image-dark.png" alt="header">
+									<img class="header-image-icon left-icon" src="http://www.ezbot24.com/ico-crypto-html-v1.2.3/images/header-icon-a.png" alt="header-icon">
+									<img class="header-image-icon right-icon" src="http://www.ezbot24.com/ico-crypto-html-v1.2.3/images/header-icon-b.png" alt="header-icon">
+								</div>
+							</div><!-- .col  -->
+						</div><!-- .row  -->
+					</div><!-- .banner-content  -->
+				</div>
+<div>
+
+
+
+
 
 ## 봇 이란 무엇인가요?
 
