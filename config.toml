@@ -1,7 +1,7 @@
 baseURL = "https://ezbotTNT.github.io/"
 languageCode = "ko"
 title = "ezbot TNT"
-theme = ["ezbot-theme", "learn"]
+theme = "learn"
 
 [author]
     name = "yonghakshin"
