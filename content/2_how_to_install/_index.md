@@ -1,8 +1,9 @@
 ---
-title: 설치방법
-weight: 10
-pre: "<b>2. </b>"
-chapter: true
+title: "설치방법"
+date: 2018-12-28T11:02:05+06:00
+icon: "ti-credit-card"
+description: "설치방법 소개"
+type : "pages"
 ---
 
 ### 설치 방법

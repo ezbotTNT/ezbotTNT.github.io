@@ -29,4 +29,3 @@ pre: "<b>2. </b>"
 
 다운로드 링크 : [벡테스터 툴 다운로드](http://www.ezbot24.com/shorturl/VPGQUI5DS5M8V)
 
-{{%attachments title="메뉴얼 다운로드" pattern="EZ-BitMEX_Manual_1_0_0.pdf"/%}}

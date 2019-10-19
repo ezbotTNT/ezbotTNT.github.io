@@ -1,8 +1,9 @@
 ---
-title: 소개
-weight: 5
-pre: "<b>1. </b>"
-chapter: true
+title: "소개페이지"
+date: 2018-12-28T11:02:05+06:00
+icon: "ti-credit-card"
+description: "디스이즈어 소개"
+type : "pages"
 ---
 
 ### 소개페이지
