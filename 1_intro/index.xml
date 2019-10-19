@@ -11,7 +11,7 @@
     
     
     <item>
-      <title>BitMEX</title>
+      <title>BitMEX.com</title>
       <link>https://ezbotTNT.github.io/1_intro/1_bitmex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -42,7 +42,7 @@
       <description>백테스터 툴은 EZbot에 설정된 수치의 효율성을 판단하는데 도움이 되는 프로그램입니다.
 적용된 로직은 EZBOT-BITMEX와 완전 동일하며, 과거 차트 데이터를 통해 봇에 적용할 설정에 대한 수익률 및 위험도를 판단 가능합니다.
 효율적인 봇 이용을 위하여 백테스터 툴을 적극 활용 권장드립니다.
- 벡터스터툴 동작 동영상  EZ-BackTest 툴 다운로드</description>
+ 벡터스터 동작 동영상  EZ-BackTest 다운로드 페이지 바로가기</description>
     </item>
     
   </channel>
