@@ -14,16 +14,16 @@ chapter: true
 
 ### 사이트 소개 입니다
 
-[BitMex 사이트 소개](1.1 링크)
+[BitMex 사이트 소개](/1_intro/1_bitmex/))
 
 ---
 
 ### 봇 소개 입니다
 
-[EZ-BitMex 봇 소개](1.2 링크)
+[EZ-BitMex 봇 소개](1_intro/2_bot/)
 
 ---
 
 ### 테스터 툴 소개 입니다
 
-[EZ-BackTest 툴 소개](1.3 링크)
+[EZ-BackTest 툴 소개](1_intro/3_tool/)
