@@ -1,10 +1,10 @@
 ---
-title: 봇 기능설명
+title: EZBOT-BITMEX
 weight: 15
 pre: "<b>2. </b>"
 ---
 
-![](/picture/EZBITMEX1.png?width=800&height=450)
+![](/picture/EZBITMEX1.png?width=700&height=400)
 
 ## EZBOT-BITMEX 란?
 
@@ -15,7 +15,10 @@ pre: "<b>2. </b>"
 
 ### 봇의 작동 예시
 
-![](/picture/buy.png?width=800&height=450)
+![](/picture/buy.png?width=700&height=400)
+
+다음 그림은 시장 상황이 다음과 같이 변할때 봇의 실제 대응하는 장면을 캡쳐한 것 입니다.</br>
+옆에 메시지는 텔레그렘 메신저로 거래 상황을 실시간으로 받아볼 수 있습니다.
 
 ### 기본 인터페이스 및 기능 소개
 
@@ -27,7 +30,7 @@ pre: "<b>2. </b>"
 4. 물타기 설정: 원하는 형태와 반대로 가격이 이동할때 평가 단가를 낮추기 위하여 **물타기**를 설정합니다.
 5. 손절매 설정: 청산을 당하지 않기 위해서 **손절**을 하거나 **동적정리** 방법을 설정합니다. 
 
-
-[EZ-bitmex 다운로드 페이지 바로가기](4_install_file/1/)
+>메뉴얼 및 다운로드 관련 바로가기 : 
+[EZ-bitmex 다운로드](4_install_file/1/)
 
 ---

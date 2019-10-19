@@ -18,7 +18,7 @@ enable=false
   languageName = "En"
   weight = 1
   languageCode = "en-us"
-  title = "Dot"
+  title = "Ezbot TNT"
   dateFormat = "2 January 2006"
   home = "Home"
   # logo is for all page
@@ -62,9 +62,21 @@ enable=false
 
           [[Languages.en.menu.main]]
           parent = "pages"
-          name = "Patch Note"
-          url = ""
+          name = "용어 및 기능설명"
+          url = "3_document"
           weight = 4
+
+      [[Languages.en.menu.main]]
+          parent = "pages"
+          name = "인스톨파일"
+          url = "4_install_file"
+          weight = 5
+
+          [[Languages.en.menu.main]]
+          parent = "pages"
+          name = "Patch Note"
+          url = "patchnote"
+          weight = 6
 
 
 

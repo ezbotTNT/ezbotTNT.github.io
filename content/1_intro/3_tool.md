@@ -1,20 +1,22 @@
 ---
-title: 테스터 툴
+title: EZbot-BackTest
 weight: 20
 pre: "<b>3. </b>"
 ---
 
-![](/picture/Backtest1.png?width=800&height=450)
+![](/picture/Backtest1.png?width=700&height=400)
 
-백테스터 툴은 EZbot에 설정된 수치의 효율성을 판단하는데 도움이 되는 프로그램입니다.
+백테스터 툴은 EZbot에 과거(비트코인 약 2년, 이더리움 약 1년)의 차트 변화를 구성하여, 설정된 옵션의 효율성을 판단하는데 도움이 되는 프로그램입니다.
 
-적용된 로직은 EZBOT-BITMEX와 완전 동일하며, 과거 차트 데이터를 통해 봇에 적용할 설정에 대한 수익률 및 위험도를 판단 가능합니다.
+적용된 로직은 EZBOT-BITMEX와 완전 동일하며, 과거 차트 데이터를 통해 봇에 적용할 설정에 대한 **수익률** 및 **청산위험도**를 판단 가능합니다.
 
 효율적인 봇 이용을 위하여 백테스터 툴을 적극 활용 권장드립니다.
 
-- [벡터스터 동작 동영상](https://www.youtube.com/watch?v=COFrw0tHElc&feature=youtu.be&t=21)
 
+{{< youtube COFrw0tHElc >}}
+- [동영상 링크](https://www.youtube.com/watch?v=COFrw0tHElc&feature=youtu.be&t=21)
+
+>메뉴얼 및 다운로드 관련 바로가기 : 
 [EZ-BackTest 다운로드 페이지 바로가기](/4_install_file/tester_tool_file/)
-
 
 ---
