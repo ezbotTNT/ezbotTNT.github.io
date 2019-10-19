@@ -1,7 +1,7 @@
 baseURL = "https://ezbotTNT.github.io/"
 languageCode = "ko"
 title = "ezbot TNT"
-theme = "learn"
+theme = ["ezbot-theme", "learn"]
 
 [author]
     name = "yonghakshin"
@@ -13,3 +13,4 @@ theme = "learn"
   editURL = "https://github.com/ezbotTNT/ezbotTNT.github.io/edit/master/content/"
   description = "hugo content for ezbotTNT.github.io"
   author = "yonghakshin"
+  themeVariant = "ezbot"
