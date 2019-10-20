@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Q&amp;A on ezbot TNT</title>
+    <title>Q&amp;A on Ezbot TNT</title>
     <link>https://ezbotTNT.github.io/5_qa/</link>
-    <description>Recent content in Q&amp;A on ezbot TNT</description>
+    <description>Recent content in Q&amp;A on Ezbot TNT</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ko</language>
+    <language>en-us</language>
+    <copyright>The Hugo Documents are copyright © [gethugothemes](https://gethugothemes.com/) 2019.</copyright>
     
 	<atom:link href="https://ezbotTNT.github.io/5_qa/index.xml" rel="self" type="application/rss+xml" />
     
@@ -20,7 +21,9 @@
 감사합니다
 수익 및 청산안전도 관련하여 옵션에 문의가 있는 경우 다음 채널을 통해 문의주시면 시간되는대로 답변드리겠습니다.
 감사합니다.
-오픈채팅 텔레그램 - 1:1 문의메일</description>
+카카오톡 오픈채팅
+텔레그램 - 1:1 문의
+문의 메일 : ezbitbot@gmail.com</description>
     </item>
     
   </channel>

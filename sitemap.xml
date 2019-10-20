@@ -3,140 +3,110 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ezbotTNT.github.io/1_intro/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://ezbotTNT.github.io/1_intro/1_bitmex/</loc>
+    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ezbotTNT.github.io/1_intro/1_bitmex/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://ezbotTNT.github.io/patchnote/1/</loc>
   </url>
   
   <url>
     <loc>https://ezbotTNT.github.io/4_install_file/1/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ezbotTNT.github.io/6.-%ED%8C%A8%EC%B9%98%EB%85%B8%ED%8A%B8/1/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ezbotTNT.github.io/3_document/1/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ezbotTNT.github.io/2_how_to_install/1/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ezbotTNT.github.io/2_how_to_install/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ezbotTNT.github.io/5_qa/1/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ezbotTNT.github.io/4_install_file/tester_tool_file/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ezbotTNT.github.io/3_document/2/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ezbotTNT.github.io/1_intro/2_bot/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ezbotTNT.github.io/3_document/2/</loc>
   </url>
   
   <url>
     <loc>https://ezbotTNT.github.io/3_document/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ezbotTNT.github.io/2_how_to_install/2/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ezbotTNT.github.io/4_install_file/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ezbotTNT.github.io/3_document/3/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ezbotTNT.github.io/1_intro/3_tool/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ezbotTNT.github.io/2_how_to_install/2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ezbotTNT.github.io/4_install_file/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ezbotTNT.github.io/3_document/3/</loc>
   </url>
   
   <url>
     <loc>https://ezbotTNT.github.io/5_qa/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ezbotTNT.github.io/2_how_to_install/4/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://ezbotTNT.github.io/2_how_to_install/3_income/</loc>
   </url>
   
   <url>
-    <loc>https://ezbotTNT.github.io/2_how_to_install/3/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ezbotTNT.github.io/6.-%ED%8C%A8%EC%B9%98%EB%85%B8%ED%8A%B8/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://ezbotTNT.github.io/2_how_to_install/4_telegram/</loc>
   </url>
   
   <url>
     <loc>https://ezbotTNT.github.io/</loc>
+    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://ezbotTNT.github.io/1_intro/</loc>
+    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ezbotTNT.github.io/2_how_to_install/</loc>
+    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ezbotTNT.github.io/contact/</loc>
+    <lastmod>2018-12-27T09:10:27+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ezbotTNT.github.io/faq/</loc>
+    <lastmod>2018-12-27T09:10:27+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ezbotTNT.github.io/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ezbotTNT.github.io/tags/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ezbotTNT.github.io/patchnote/</loc>
   </url>
   
 </urlset>
