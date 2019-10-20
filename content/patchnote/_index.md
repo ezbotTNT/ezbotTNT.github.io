@@ -8,4 +8,4 @@ type : "pages"
 
 ### Q&A
 
-[BitMEX 패치 노트](/6.-패치노트/1/)</br>
+[BitMEX 패치 노트](/patchnote/1/)</br>

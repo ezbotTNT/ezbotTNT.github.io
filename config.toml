@@ -30,55 +30,35 @@ enable=false
     # navigation
     [Languages.en.menu]
 
-      [[Languages.en.menu.main]]
-        weight = 2
-        name = "Faq"
-        url = "faq"
-
-      [[Languages.en.menu.main]]
-        weight = 2
-        name = "contact"
-        url = "contact"
 
 
-      # Dropdown menu
-      [[Languages.en.menu.main]]
-        weight = 4
-        name = "pages"
-        url = "pages"
-        hasChildren = true
 
-          [[Languages.en.menu.main]]
-          parent = "pages"
+
+
+         [[Languages.en.menu.main]]
           name = "소개페이지"
           url = "1_intro"
-          weight = 2
+          weight = 10
 
-          [[Languages.en.menu.main]]
-          parent = "pages"
-          name = "How To Install"
+         [[Languages.en.menu.main]]
+          name = "설치하기"
           url = "2_how_to_install"
-          weight = 3
+          weight = 11
 
           [[Languages.en.menu.main]]
-          parent = "pages"
-          name = "용어 및 기능설명"
+          name = "용어 및 기능설정"
           url = "3_document"
-          weight = 4
-
-      [[Languages.en.menu.main]]
-          parent = "pages"
-          name = "인스톨파일"
-          url = "4_install_file"
-          weight = 5
+          weight = 11
 
           [[Languages.en.menu.main]]
-          parent = "pages"
-          name = "Patch Note"
-          url = "patchnote"
-          weight = 6
+          name = "설치파일 다운로드"
+          url = "4_install_file"
+          weight = 12
 
-
+        [[Languages.en.menu.main]]
+          name = "FaQ"
+          url = "faq"
+          weight = 15
 
 
     # banner
@@ -90,7 +70,7 @@ enable=false
 
     # Topics
     [Languages.en.params.topics]
-      title = "Find your answer by subject"
+      title = "Find your subject"
 
     # call to action
     [Languages.en.params.cta]
