@@ -28,5 +28,5 @@ pre: "<b>2. </b>"
 
 동작동영상 동영상 링크 : https://www.youtube.com/watch?v=COFrw0tHElc&feature=youtu.be&t=21
 
->다운로드 링크 : [벡테스터 툴 다운로드](http://www.ezbot24.com/shorturl/VPGQUI5DS5M8V)
+>다운로드 링크 : [벡테스터 툴 다운로드](https://github.com/ezbotTNT/ezbotTNT.github.io/raw/develop/content/manual%20down/EZ-Backtest_BitMEX_Manual.pdf)
 

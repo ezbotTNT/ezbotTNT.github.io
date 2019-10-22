@@ -70,8 +70,9 @@ enable=false
  
     # contact
     [Languages.en.params.contact]
-      title = "Got Any Questions"
-      content = "Submit the form and confirm your email address at <a class='text-primary' href='https://formspree.io/'>Formspree</a> Then add the following lines to contact page YAML Front Matter."
+      title = "이제 설치하는 방법에 대한 설명이 마무리 되었습니다."
+      content = "여기까지 이해가 안되시는 경우 ezbitbot@gmail.com으로 연락주시면 성심성의것 답변드리겠습니다."
+      
 
     # footer social icon
     [[Languages.en.socialIcon]]
