@@ -29,14 +29,14 @@ type : "pages"
 
 #### 계좌로 입금하기
 
->[BitMEX 계좌로 입금하기](/2_how_to_install/4_income/)
+>[BitMEX 계좌로 입금하기](/2_how_to_install/3_income/)
 
 
 ---
 
 #### 메신저 연락 받기
 
->[텔레그렘 메신져 연동하기](/2_how_to_install/3_telegram/)
+>[텔레그렘 메신져 연동하기](/2_how_to_install/4_telegram/)
 
 
 ---
