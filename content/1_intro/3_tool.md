@@ -1,7 +1,7 @@
 ---
 title: EZbot-BackTest
 weight: 20
-pre: "<b>3. </b>"
+pre: "<b>4. </b>"
 ---
 
 ![](/picture/Backtest1.png?width=700&height=400)

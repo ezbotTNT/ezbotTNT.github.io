@@ -27,6 +27,8 @@ enable=false
   logoWhite = ""
   copyright = "The ezbio24.com site are Cooperate © [ezbot24](https://ezbot24.com/) 2019."
 
+
+
     # navigation
     [Languages.en.menu]
 
@@ -58,8 +60,8 @@ enable=false
 
     # banner
     [Languages.en.params.banner]
-      title = "Support Center & Knowledge base"
-      description = "Find advice and answers from our support team fast or get in touch"
+      title = "EZbot 서비스 사이트 입니다."
+      description = "기본적으로 사용하시기 전에 위의 내용을 다 읽어보시고 설치하시길 바랍니다. "
       image = "images/banner.jpg"
       placeholder = "Have a question? Just ask here or enter terms"
 

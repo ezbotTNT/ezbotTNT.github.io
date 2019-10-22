@@ -1,7 +1,7 @@
 ---
 title: EZBOT-BITMEX
 weight: 15
-pre: "<b>2. </b>"
+pre: "<b>3. </b>"
 ---
 
 ![](/picture/EZBITMEX1.png?width=700&height=400)
