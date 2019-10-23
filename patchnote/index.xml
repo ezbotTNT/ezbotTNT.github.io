@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EzBot-BitMex        TNT</title>
-    <link>https://ezbotTNT.github.io/patchnote/</link>
+    <link>http://ezbotnt.com/patchnote/</link>
     <description>Recent content on EzBot-BitMex        TNT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>The ezbio24.com site are Cooperate © [ezbot24](https://ezbot24.com/) 2019.</copyright>
     
-	<atom:link href="https://ezbotTNT.github.io/patchnote/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ezbotnt.com/patchnote/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>EZ-BitMex 패치노트</title>
-      <link>https://ezbotTNT.github.io/patchnote/1/</link>
+      <link>http://ezbotnt.com/patchnote/1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ezbotTNT.github.io/patchnote/1/</guid>
+      <guid>http://ezbotnt.com/patchnote/1/</guid>
       <description> 패치노트 2010. 10. 16. 일 업데이트 정보 EZ-BitMEX v1.0.3 이 업데이트 되었습니다.
 업데이트 내역은 아래와 같습니다.
  포지션 보유중 진입 레버리지 변경 위험성 안내메시지 추가 동적정리 관련 설명 문구 수정 및 안내 메시지 수정  </description>

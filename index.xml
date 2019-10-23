@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EzBot-BitMex        TNT</title>
-    <link>https://ezbotTNT.github.io/</link>
+    <link>http://ezbotnt.com/</link>
     <description>Recent content on EzBot-BitMex        TNT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>The ezbio24.com site are Cooperate © [ezbot24](https://ezbot24.com/) 2019.</copyright>
     <lastBuildDate>Fri, 28 Dec 2018 11:02:05 +0600</lastBuildDate>
     
-	<atom:link href="https://ezbotTNT.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ezbotnt.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>bot 서비스</title>
-      <link>https://ezbotTNT.github.io/1_intro/0start/</link>
+      <link>http://ezbotnt.com/1_intro/0start/</link>
       <pubDate>Fri, 28 Dec 2018 11:02:05 +0600</pubDate>
       
-      <guid>https://ezbotTNT.github.io/1_intro/0start/</guid>
+      <guid>http://ezbotnt.com/1_intro/0start/</guid>
       <description>봇 이란 무엇인가요?  BOT이란, 미리 정해진 규칙으로 매수와 매도하는 자동 거래 프로그램을 말합니다.
  암호 화폐 시장은 24시간 쉬는 시간 없이 매매가 이루어지기 때문에 사람이 매 순간 시장에 참여하여 거래를 하는 것은 불가능 합니다.
  EZ-BITMEX 은 프로그램이 동작하는 동안 매 순간 시장을 감시하여 최적의 순간에 매수와 매도를 진행합니다.
@@ -26,10 +26,10 @@
     
     <item>
       <title>www.bitmex.com</title>
-      <link>https://ezbotTNT.github.io/1_intro/1_bitmex/</link>
+      <link>http://ezbotnt.com/1_intro/1_bitmex/</link>
       <pubDate>Fri, 28 Dec 2018 11:02:05 +0600</pubDate>
       
-      <guid>https://ezbotTNT.github.io/1_intro/1_bitmex/</guid>
+      <guid>http://ezbotnt.com/1_intro/1_bitmex/</guid>
       <description>비트맥스는 세계 최고의 마진거래 사이트중 하나입니다.
  재화로 비트코인을 사용하며 코인을 베이스로 파생 상품을 거래하는 선물시장입니다.
  선물 시간은 전통적으로 우리나라에서는 기관이 하는 공매도/공매수 개념을 사용하던 시장입니다. 기본적인 리스크 및 지식이 필요하기에 정리해보았습니다.
@@ -39,10 +39,10 @@
     
     <item>
       <title>EZ-BitMex 패치노트</title>
-      <link>https://ezbotTNT.github.io/patchnote/1/</link>
+      <link>http://ezbotnt.com/patchnote/1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ezbotTNT.github.io/patchnote/1/</guid>
+      <guid>http://ezbotnt.com/patchnote/1/</guid>
       <description> 패치노트 2010. 10. 16. 일 업데이트 정보 EZ-BitMEX v1.0.3 이 업데이트 되었습니다.
 업데이트 내역은 아래와 같습니다.
  포지션 보유중 진입 레버리지 변경 위험성 안내메시지 추가 동적정리 관련 설명 문구 수정 및 안내 메시지 수정  </description>
@@ -50,10 +50,10 @@
     
     <item>
       <title>EZbot-BitMEX</title>
-      <link>https://ezbotTNT.github.io/4_install_file/1/</link>
+      <link>http://ezbotnt.com/4_install_file/1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ezbotTNT.github.io/4_install_file/1/</guid>
+      <guid>http://ezbotnt.com/4_install_file/1/</guid>
       <description>EZBOT-BITMEX는 높은 승률로 고수익을 목표로 하는 봇입니다.
  BitMEX 거래 특성상 하이리스크를 동반하며, 봇의 설정에 따라 수익률 및 청산 위험도가 달라집니다.
  백테스트 툴로 설정된 봇의 위험도와 수익정도를 가늠할 수 있으며, 이를 통해 옵션별로 기간에 따라 수익률 및 위험도 판단이 가능합니다.
@@ -64,10 +64,10 @@
     
     <item>
       <title>관련 문의</title>
-      <link>https://ezbotTNT.github.io/5_qa/1/</link>
+      <link>http://ezbotnt.com/5_qa/1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ezbotTNT.github.io/5_qa/1/</guid>
+      <guid>http://ezbotnt.com/5_qa/1/</guid>
       <description>현재 베타 서비스 기간입니다.
 기술적인 문의는 카카오톡 오픈채팅이나 이메일 문의해주시면 성심성의것 답변해 드립니다.
 또한 자신만의 옵션을 설정하여 봇을 실행시킬때 옵션관련하여 문의 메일로 주시면 충분히 답변드리겠습니다.
@@ -80,10 +80,10 @@
     
     <item>
       <title>레버리지, 청산, 포지션</title>
-      <link>https://ezbotTNT.github.io/3_document/1/</link>
+      <link>http://ezbotnt.com/3_document/1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ezbotTNT.github.io/3_document/1/</guid>
+      <guid>http://ezbotnt.com/3_document/1/</guid>
       <description>레버리지란?  레버리지는 지렛대 효과를 의미하는 단어로 작은 힘으로 자신보다 큰 무게를 움직이는 것을 의미합니다.*
  비트코인에서 적은돈으로 투자해 수익률을 극대화하는 투자방법을 말합니다. 높은 레버리지를 사용할 경우 적은 돈으로 크게 수익을 볼수 있습니다. 하지만 그만큼 리스크도 높아지니 주의해야합니다.
  포지션이 있는 상태에서 레버리지를 올리거나 낮추면 수익이 같이 조정된다고 생각할 수 있지만, 한번 포지션이 잡히면 레버리지를 조정한다고 하여 수익이나 손실 금액이 바뀌지는 않습니다.
@@ -92,10 +92,10 @@
     
     <item>
       <title>비트맥스 가입 &amp; 봇 연동</title>
-      <link>https://ezbotTNT.github.io/2_how_to_install/1/</link>
+      <link>http://ezbotnt.com/2_how_to_install/1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ezbotTNT.github.io/2_how_to_install/1/</guid>
+      <guid>http://ezbotnt.com/2_how_to_install/1/</guid>
       <description>비트맥스 가입 및 API 연동하기 해당 Bot의 API를 사용하기 위해서는 다음의 링크로 가입을 해야합니다.
  https://www.bitmex.com/register 주의사항 : 해당 다음 링크로 등록하지 않으면 API가 구동하지 않습니다.
   등록 창에서 이메일과 비밀번호를 등록하면 해당 이메일로 BITMEX에 등록되었다고 이메일이 옵니다. 해당 메일에서 내 이메일을 확인하면 해당 사이트에 가입 완료됩니다. 봇에 연동해서 사용하므로 다음 페이지에서 API를 클릭하여 접속합니다.   그림의 빨간부분을 클릭합니다. 이후 이름(아무거나) 및 주문사용현황 – 주문으로 설정후 API키 만들기를 클릭하면 아래 초록색 창처럼 API키가 생성이 됩니다.</description>
@@ -103,10 +103,10 @@
     
     <item>
       <title>EZbot-Backtest</title>
-      <link>https://ezbotTNT.github.io/4_install_file/tester_tool_file/</link>
+      <link>http://ezbotnt.com/4_install_file/tester_tool_file/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ezbotTNT.github.io/4_install_file/tester_tool_file/</guid>
+      <guid>http://ezbotnt.com/4_install_file/tester_tool_file/</guid>
       <description>백테스터 툴은 EZbot에 설정된 수치의 효율성을 판단하는데 도움이 되는 프로그램입니다.
  적용된 로직은 EZBOT-BITMEX와 완전 동일하며, 과거 차트 데이터를 통해 봇에 적용할 설정에 대한 수익률 및 위험도를 판단 가능합니다.
  효율적인 봇 이용을 위하여 백테스터 툴을 적극 활용 권장드립니다.
@@ -116,10 +116,10 @@
     
     <item>
       <title>EZBOT-BITMEX</title>
-      <link>https://ezbotTNT.github.io/1_intro/2_bot/</link>
+      <link>http://ezbotnt.com/1_intro/2_bot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ezbotTNT.github.io/1_intro/2_bot/</guid>
+      <guid>http://ezbotnt.com/1_intro/2_bot/</guid>
       <description>EZBOT-BITMEX 란? 이에 EZBOT-BITMEX 의 기본전략은 다음과 같습니다.
  높은 레버리지를 통해 높은 이익을 보는것이 목표가 아니라 한번 거래시 최소한의 안전한 레버리지로 0.05 % ~ 0.1 % 정도의 이익을 (비트코인의 보유 개수 증가) 보는것을 목표로 합니다.
  EZBOT-BITMEX 봇이 차트를 24시간 주시하며, 안전하다고 판단하는 시점에 포지션을 오픈하며 해당 목표 수익률에 달성하면 포지션 종료를 하며 이익을 얻습니다.
@@ -128,10 +128,10 @@
     
     <item>
       <title>물타기</title>
-      <link>https://ezbotTNT.github.io/3_document/2/</link>
+      <link>http://ezbotnt.com/3_document/2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ezbotTNT.github.io/3_document/2/</guid>
+      <guid>http://ezbotnt.com/3_document/2/</guid>
       <description>물타기란?  투자 에 있어서 베팅이란 굉장히 중요한 영역입니다. 내가 가진 시드머니에서 어느정도 비중을 두고 진입할지 혹은 어떻게 관리할지 극대화할지 많은 요소들이 베팅에 일부분입니다.
  백만원을 가진 사람이 매번 백만원을 투자한다면 큰 수익이 있겠지만 조금 위험부담이 있습니다.  그래서 5만원, 10만원 내가 감당할수 있을 만큼 베팅을 하는 것이 좋습니다. 수익률을 조금 떨어지지만 보다 안정적일 겁니다.
  여기서 승률과 비중을 높여 수익률을 키우는 물타기 개념을 소개하겠습니다.
@@ -140,10 +140,10 @@
     
     <item>
       <title>EZbot-BackTest</title>
-      <link>https://ezbotTNT.github.io/1_intro/3_tool/</link>
+      <link>http://ezbotnt.com/1_intro/3_tool/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ezbotTNT.github.io/1_intro/3_tool/</guid>
+      <guid>http://ezbotnt.com/1_intro/3_tool/</guid>
       <description>백테스터 툴은 EZbot에 과거(비트코인 약 2년, 이더리움 약 1년)의 차트 변화를 구성하여, 설정된 옵션의 효율성을 판단하는데 도움이 되는 프로그램입니다.
  적용된 로직은 EZBOT-BITMEX와 완전 동일하며, 과거 차트 데이터를 통해 봇에 적용할 설정에 대한 수익률 및 청산위험도를 판단 가능합니다.
  효율적인 봇 이용을 위하여 백테스터 툴을 적극 활용 권장드립니다.
@@ -154,10 +154,10 @@
     
     <item>
       <title>가상머신(VM) 설치하기</title>
-      <link>https://ezbotTNT.github.io/2_how_to_install/2/</link>
+      <link>http://ezbotnt.com/2_how_to_install/2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ezbotTNT.github.io/2_how_to_install/2/</guid>
+      <guid>http://ezbotnt.com/2_how_to_install/2/</guid>
       <description>VM(virtual Machine) 가상머신 가입 및 설치하기  봇은 24시간 활동을 해야하므로 24시간 컴퓨터가 켜져있어야 합니다. 가능한 경우 해당 컴퓨터에서 사용하시면 됩니다. 하지만 대부분의 경우 대안이 필요합니다.
  이럴때 VM이라는 가상의 클라우드 컴퓨터를 구매해서 사용합니다. 다행히 구글에서 클라우드 가입을 하면 무료로 5개월정도 VM(가상머신)사용 가능합니다다.  (구글 계정 만드는건 무료라서 다쓰면 또 만들면됩니다.)
    https://cloud.google.com/ 해당 링크에 접속 후 구글아이디로 접속합니다.
@@ -166,19 +166,19 @@
     
     <item>
       <title>옵션 별 상세기능</title>
-      <link>https://ezbotTNT.github.io/3_document/3/</link>
+      <link>http://ezbotnt.com/3_document/3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ezbotTNT.github.io/3_document/3/</guid>
+      <guid>http://ezbotnt.com/3_document/3/</guid>
       <description>EZbot-BitMEX의 옵션 별 상세기능  봇의 옵션은 다음과 같이 5가지 기능을 가지고 있습니다.   간편설정: 기본적으로 제공하는 옵션과 자신이 사용중인 옵션에 대해 저장하여 사용 가능합니다. 포지션 진입설정: 원하는 종목, 포지션 방식, 레버리지 비율, 갭을 선택합니다. 포지션 정리설정: 목표수익률에 도달하였을때 포지션을 정리하는 방법을 대해 설정합니다. 물타기 설정: 원하는 형태와 반대로 가격이 이동할때 평가 단가를 낮추기 위하여 물타기를 설정합니다. 손절매 설정: 청산을 당하지 않기 위해서 손절을 하거나 동적정리 방법을 설정합니다.   세부 자세한 옵션에 대한 기능은 메뉴얼 참고 부탁드립니다.</description>
     </item>
     
     <item>
       <title>입금하기</title>
-      <link>https://ezbotTNT.github.io/2_how_to_install/3_income/</link>
+      <link>http://ezbotnt.com/2_how_to_install/3_income/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ezbotTNT.github.io/2_how_to_install/3_income/</guid>
+      <guid>http://ezbotnt.com/2_how_to_install/3_income/</guid>
       <description>BitMEX는 해외선물 거래소이므로 원화 입금이 안됩니다.  다른 한국 거래소에서 비트를 구입하셔서 입금해야 합니다.   한국코인 거래소 및 제휴은행 목록 1. Updit - 기업은행 2. Bithumb - 농협은행 3. Coinage - 농협은행 4. Korbit - 신한은행
  코인 구매하는 방법  거래소를 통한 코인 구매하기 설명 사이트 b.bank 공식 블로그 참조
  BitMex 본인계좌 만들기  비트맥스의 계정으로 생성한 비트코인으로 입금해야 합니다. 아래 그림은 제가 생성한 비트맥스 내 입금 계정 생성방법입니다.</description>
@@ -186,10 +186,10 @@
     
     <item>
       <title>텔레그램 연동하기</title>
-      <link>https://ezbotTNT.github.io/2_how_to_install/4_telegram/</link>
+      <link>http://ezbotnt.com/2_how_to_install/4_telegram/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ezbotTNT.github.io/2_how_to_install/4_telegram/</guid>
+      <guid>http://ezbotnt.com/2_how_to_install/4_telegram/</guid>
       <description>텔레그램 연동하기 프로그램을 설치하면 EZ-bitmex 거래 정보를 텔레그램 메신저로 받아서 확인할 수 있습니다.
 연동하는 방법은 다음과 같습니다.
 텔레그램 설치 링크 윈도우 사용자 : Windows 사용자 다운로드 하기
