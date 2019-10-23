@@ -24,9 +24,11 @@ pre: "<b>2. </b>"
 80 %  이 상 : 청산 위험 매우 높음.</br>
 100 %   : 청산
 
-{{< youtube COFrw0tHElc >}}
+- 비트코인 안전설정 동작동영상 </br> 기간 2018.09 ~ 2019. 09 </br>종목 : XBTUSD(비트코인)
 
-동작동영상 동영상 링크 : https://www.youtube.com/watch?v=COFrw0tHElc&feature=youtu.be&t=21
+{{< youtube hGQn8iKCCjQ >}}
+
+동작동영상 동영상 링크 : https://www.youtube.com/watch?v=hGQn8iKCCjQ&feature=youtu.be&t=21
 
 >다운로드 링크 : [벡테스터 툴 다운로드](https://github.com/ezbotTNT/ezbotTNT.github.io/raw/develop/content/manual%20down/EZ-Backtest_BitMEX_Manual.pdf)
 

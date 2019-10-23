@@ -4,8 +4,8 @@ theme = "dot"
 
 # customize color
 [params]
-primaryColor = "#402C45"
-secondaryColor = "#dcdcdc"
+primaryColor = "#00008C"
+secondaryColor = "#ffffff"
 textColor = "#636363"
 textColorDark = "#242738"
 whiteColor = "#ffffff"
