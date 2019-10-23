@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>서비스 소개 on EzBot-BitMex        TNT</title>
-    <link>http://ezbotnt.com/1_intro/</link>
+    <link>https://ezbotnt.com/1_intro/</link>
     <description>Recent content in 서비스 소개 on EzBot-BitMex        TNT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>The ezbio24.com site are Cooperate © [ezbot24](https://ezbot24.com/) 2019.</copyright>
     <lastBuildDate>Fri, 28 Dec 2018 11:02:05 +0600</lastBuildDate>
     
-	<atom:link href="http://ezbotnt.com/1_intro/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ezbotnt.com/1_intro/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>bot 서비스</title>
-      <link>http://ezbotnt.com/1_intro/0start/</link>
+      <link>https://ezbotnt.com/1_intro/0start/</link>
       <pubDate>Fri, 28 Dec 2018 11:02:05 +0600</pubDate>
       
-      <guid>http://ezbotnt.com/1_intro/0start/</guid>
+      <guid>https://ezbotnt.com/1_intro/0start/</guid>
       <description>봇 이란 무엇인가요?  BOT이란, 미리 정해진 규칙으로 매수와 매도하는 자동 거래 프로그램을 말합니다.
  암호 화폐 시장은 24시간 쉬는 시간 없이 매매가 이루어지기 때문에 사람이 매 순간 시장에 참여하여 거래를 하는 것은 불가능 합니다.
  EZ-BITMEX 은 프로그램이 동작하는 동안 매 순간 시장을 감시하여 최적의 순간에 매수와 매도를 진행합니다.
@@ -26,10 +26,10 @@
     
     <item>
       <title>www.bitmex.com</title>
-      <link>http://ezbotnt.com/1_intro/1_bitmex/</link>
+      <link>https://ezbotnt.com/1_intro/1_bitmex/</link>
       <pubDate>Fri, 28 Dec 2018 11:02:05 +0600</pubDate>
       
-      <guid>http://ezbotnt.com/1_intro/1_bitmex/</guid>
+      <guid>https://ezbotnt.com/1_intro/1_bitmex/</guid>
       <description>비트맥스는 세계 최고의 마진거래 사이트중 하나입니다.
  재화로 비트코인을 사용하며 코인을 베이스로 파생 상품을 거래하는 선물시장입니다.
  선물 시간은 전통적으로 우리나라에서는 기관이 하는 공매도/공매수 개념을 사용하던 시장입니다. 기본적인 리스크 및 지식이 필요하기에 정리해보았습니다.
@@ -39,10 +39,10 @@
     
     <item>
       <title>EZBOT-BITMEX</title>
-      <link>http://ezbotnt.com/1_intro/2_bot/</link>
+      <link>https://ezbotnt.com/1_intro/2_bot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://ezbotnt.com/1_intro/2_bot/</guid>
+      <guid>https://ezbotnt.com/1_intro/2_bot/</guid>
       <description>EZBOT-BITMEX 란? 이에 EZBOT-BITMEX 의 기본전략은 다음과 같습니다.
  높은 레버리지를 통해 높은 이익을 보는것이 목표가 아니라 한번 거래시 최소한의 안전한 레버리지로 0.05 % ~ 0.1 % 정도의 이익을 (비트코인의 보유 개수 증가) 보는것을 목표로 합니다.
  EZBOT-BITMEX 봇이 차트를 24시간 주시하며, 안전하다고 판단하는 시점에 포지션을 오픈하며 해당 목표 수익률에 달성하면 포지션 종료를 하며 이익을 얻습니다.
@@ -51,10 +51,10 @@
     
     <item>
       <title>EZbot-BackTest</title>
-      <link>http://ezbotnt.com/1_intro/3_tool/</link>
+      <link>https://ezbotnt.com/1_intro/3_tool/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://ezbotnt.com/1_intro/3_tool/</guid>
+      <guid>https://ezbotnt.com/1_intro/3_tool/</guid>
       <description>백테스터 툴은 EZbot에 과거(비트코인 약 2년, 이더리움 약 1년)의 차트 변화를 구성하여, 설정된 옵션의 효율성을 판단하는데 도움이 되는 프로그램입니다.
  적용된 로직은 EZBOT-BITMEX와 완전 동일하며, 과거 차트 데이터를 통해 봇에 적용할 설정에 대한 수익률 및 청산위험도를 판단 가능합니다.
  효율적인 봇 이용을 위하여 백테스터 툴을 적극 활용 권장드립니다.

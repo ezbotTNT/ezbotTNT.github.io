@@ -3,109 +3,100 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://ezbotnt.com/1_intro/0start/</loc>
+    <loc>https://ezbotnt.com/1_intro/0start/</loc>
     <lastmod>2018-12-28T11:02:05+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://ezbotnt.com/1_intro/1_bitmex/</loc>
+    <loc>https://ezbotnt.com/1_intro/1_bitmex/</loc>
     <lastmod>2018-12-28T11:02:05+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://ezbotnt.com/patchnote/1/</loc>
+    <loc>https://ezbotnt.com/4_install_file/1/</loc>
   </url>
   
   <url>
-    <loc>http://ezbotnt.com/4_install_file/1/</loc>
+    <loc>https://ezbotnt.com/5_qa/1/</loc>
   </url>
   
   <url>
-    <loc>http://ezbotnt.com/5_qa/1/</loc>
+    <loc>https://ezbotnt.com/3_document/1/</loc>
   </url>
   
   <url>
-    <loc>http://ezbotnt.com/3_document/1/</loc>
+    <loc>https://ezbotnt.com/2_how_to_install/1/</loc>
   </url>
   
   <url>
-    <loc>http://ezbotnt.com/2_how_to_install/1/</loc>
+    <loc>https://ezbotnt.com/4_install_file/tester_tool_file/</loc>
   </url>
   
   <url>
-    <loc>http://ezbotnt.com/4_install_file/tester_tool_file/</loc>
+    <loc>https://ezbotnt.com/1_intro/2_bot/</loc>
   </url>
   
   <url>
-    <loc>http://ezbotnt.com/1_intro/2_bot/</loc>
+    <loc>https://ezbotnt.com/3_document/2/</loc>
   </url>
   
   <url>
-    <loc>http://ezbotnt.com/3_document/2/</loc>
+    <loc>https://ezbotnt.com/1_intro/3_tool/</loc>
   </url>
   
   <url>
-    <loc>http://ezbotnt.com/1_intro/3_tool/</loc>
+    <loc>https://ezbotnt.com/2_how_to_install/2/</loc>
   </url>
   
   <url>
-    <loc>http://ezbotnt.com/2_how_to_install/2/</loc>
+    <loc>https://ezbotnt.com/4_install_file/</loc>
   </url>
   
   <url>
-    <loc>http://ezbotnt.com/4_install_file/</loc>
+    <loc>https://ezbotnt.com/3_document/3/</loc>
   </url>
   
   <url>
-    <loc>http://ezbotnt.com/3_document/3/</loc>
+    <loc>https://ezbotnt.com/5_qa/</loc>
   </url>
   
   <url>
-    <loc>http://ezbotnt.com/5_qa/</loc>
+    <loc>https://ezbotnt.com/2_how_to_install/3_income/</loc>
   </url>
   
   <url>
-    <loc>http://ezbotnt.com/2_how_to_install/3_income/</loc>
+    <loc>https://ezbotnt.com/2_how_to_install/4_telegram/</loc>
   </url>
   
   <url>
-    <loc>http://ezbotnt.com/2_how_to_install/4_telegram/</loc>
-  </url>
-  
-  <url>
-    <loc>http://ezbotnt.com/</loc>
+    <loc>https://ezbotnt.com/</loc>
     <lastmod>2018-12-28T11:02:05+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ezbotnt.com/1_intro/</loc>
+    <loc>https://ezbotnt.com/1_intro/</loc>
     <lastmod>2018-12-28T11:02:05+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://ezbotnt.com/patchnote/</loc>
-    <priority>0</priority>
+    <loc>https://ezbotnt.com/categories/</loc>
   </url>
   
   <url>
-    <loc>http://ezbotnt.com/categories/</loc>
+    <loc>https://ezbotnt.com/faq/</loc>
   </url>
   
   <url>
-    <loc>http://ezbotnt.com/faq/</loc>
+    <loc>https://ezbotnt.com/tags/</loc>
   </url>
   
   <url>
-    <loc>http://ezbotnt.com/tags/</loc>
+    <loc>https://ezbotnt.com/2_how_to_install/</loc>
   </url>
   
   <url>
-    <loc>http://ezbotnt.com/2_how_to_install/</loc>
-  </url>
-  
-  <url>
-    <loc>http://ezbotnt.com/3_document/</loc>
+    <loc>https://ezbotnt.com/3_document/</loc>
   </url>
   
 </urlset>

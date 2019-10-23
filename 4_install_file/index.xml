@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>설치파일 on EzBot-BitMex        TNT</title>
-    <link>http://ezbotnt.com/4_install_file/</link>
+    <link>https://ezbotnt.com/4_install_file/</link>
     <description>Recent content in 설치파일 on EzBot-BitMex        TNT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>The ezbio24.com site are Cooperate © [ezbot24](https://ezbot24.com/) 2019.</copyright>
     
-	<atom:link href="http://ezbotnt.com/4_install_file/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ezbotnt.com/4_install_file/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>EZbot-BitMEX</title>
-      <link>http://ezbotnt.com/4_install_file/1/</link>
+      <link>https://ezbotnt.com/4_install_file/1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://ezbotnt.com/4_install_file/1/</guid>
+      <guid>https://ezbotnt.com/4_install_file/1/</guid>
       <description>EZBOT-BITMEX는 높은 승률로 고수익을 목표로 하는 봇입니다.
  BitMEX 거래 특성상 하이리스크를 동반하며, 봇의 설정에 따라 수익률 및 청산 위험도가 달라집니다.
  백테스트 툴로 설정된 봇의 위험도와 수익정도를 가늠할 수 있으며, 이를 통해 옵션별로 기간에 따라 수익률 및 위험도 판단이 가능합니다.
@@ -27,10 +27,10 @@
     
     <item>
       <title>EZbot-Backtest</title>
-      <link>http://ezbotnt.com/4_install_file/tester_tool_file/</link>
+      <link>https://ezbotnt.com/4_install_file/tester_tool_file/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://ezbotnt.com/4_install_file/tester_tool_file/</guid>
+      <guid>https://ezbotnt.com/4_install_file/tester_tool_file/</guid>
       <description>백테스터 툴은 EZbot에 설정된 수치의 효율성을 판단하는데 도움이 되는 프로그램입니다.
  적용된 로직은 EZBOT-BITMEX와 완전 동일하며, 과거 차트 데이터를 통해 봇에 적용할 설정에 대한 수익률 및 위험도를 판단 가능합니다.
  효율적인 봇 이용을 위하여 백테스터 툴을 적극 활용 권장드립니다.

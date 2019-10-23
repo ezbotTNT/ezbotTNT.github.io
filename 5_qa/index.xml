@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Q&amp;A on EzBot-BitMex        TNT</title>
-    <link>http://ezbotnt.com/5_qa/</link>
+    <link>https://ezbotnt.com/5_qa/</link>
     <description>Recent content in Q&amp;A on EzBot-BitMex        TNT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>The ezbio24.com site are Cooperate © [ezbot24](https://ezbot24.com/) 2019.</copyright>
     
-	<atom:link href="http://ezbotnt.com/5_qa/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ezbotnt.com/5_qa/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>관련 문의</title>
-      <link>http://ezbotnt.com/5_qa/1/</link>
+      <link>https://ezbotnt.com/5_qa/1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://ezbotnt.com/5_qa/1/</guid>
+      <guid>https://ezbotnt.com/5_qa/1/</guid>
       <description>현재 베타 서비스 기간입니다.
 기술적인 문의는 카카오톡 오픈채팅이나 이메일 문의해주시면 성심성의것 답변해 드립니다.
 또한 자신만의 옵션을 설정하여 봇을 실행시킬때 옵션관련하여 문의 메일로 주시면 충분히 답변드리겠습니다.
