@@ -4,7 +4,7 @@ weight: 15
 pre: "<b>3. </b>"
 ---
 
-![](/picture/EZBITMEX1.png?width=700&height=400)
+![](/picture/EZBITMEX1.png?width=100%&height=50%)
 
 ## EZBOT-BITMEX 란?
 
@@ -16,7 +16,7 @@ pre: "<b>3. </b>"
 
 ### 봇의 작동 예시
 
-![](/picture/buy.png?width=700&height=400)
+![](/picture/buy.png?width=100%&height=50%)
 
 - 다음 그림은 시장 상황이 다음과 같이 변할때 봇의 실제 대응하는 장면입니다.</br>
 옆에 메시지는 텔레그렘 메신저로 거래 상황을 실시간으로 받아볼 수 있습니다.

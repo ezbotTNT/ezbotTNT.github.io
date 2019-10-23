@@ -4,7 +4,7 @@ weight: 15
 pre: "<b>2. </b>"
 ---
 
-![](/picture/Backtest1.png?width=700&height=450)
+![](/picture/Backtest1.png?width=100%&height=50%)
 
 
 - 백테스터 툴은 EZbot에 설정된 수치의 효율성을 판단하는데 도움이 되는 프로그램입니다.

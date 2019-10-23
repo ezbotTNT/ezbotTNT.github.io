@@ -6,7 +6,7 @@ pre: "<b>2. </b>"
 
 ---
 
-![](/picture/site1.png?width=600&height=300)
+![](/picture/site1.png?width=100%&height=50%)
 
 - 비트맥스는 세계 최고의 마진거래 사이트중 하나입니다.
 
@@ -44,7 +44,7 @@ pre: "<b>2. </b>"
 
 
 
-![](/picture/position1.png?width=900&height=300)
+![](/picture/position1.png?width=100%&height=100%)
 <p align="center">
 그림출처 : http://www.daankal.com/pfo/p04.html
 </P>

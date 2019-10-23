@@ -4,7 +4,7 @@ weight: 20
 pre: "<b>4. </b>"
 ---
 
-![](/picture/Backtest1.png?width=700&height=400)
+![](/picture/Backtest1.png?width=100%&height=50%)
 
 - 백테스터 툴은 EZbot에 과거(비트코인 약 2년, 이더리움 약 1년)의 차트 변화를 구성하여, 설정된 옵션의 효율성을 판단하는데 도움이 되는 프로그램입니다.
 
