@@ -45,10 +45,6 @@
   </url>
   
   <url>
-    <loc>http://ezbotnt.com/3_document/</loc>
-  </url>
-  
-  <url>
     <loc>http://ezbotnt.com/1_intro/3_tool/</loc>
   </url>
   
@@ -88,21 +84,6 @@
   </url>
   
   <url>
-    <loc>http://ezbotnt.com/2_how_to_install/</loc>
-    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ezbotnt.com/contact/</loc>
-    <lastmod>2018-12-27T09:10:27+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ezbotnt.com/faq/</loc>
-    <lastmod>2018-12-27T09:10:27+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://ezbotnt.com/patchnote/</loc>
     <priority>0</priority>
   </url>
@@ -112,7 +93,19 @@
   </url>
   
   <url>
+    <loc>http://ezbotnt.com/faq/</loc>
+  </url>
+  
+  <url>
     <loc>http://ezbotnt.com/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ezbotnt.com/2_how_to_install/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ezbotnt.com/3_document/</loc>
   </url>
   
 </urlset>
