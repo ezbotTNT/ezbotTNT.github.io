@@ -1,6 +1,5 @@
 ---
 title: "설치방법"
-date: 2018-12-28T11:02:05+06:00
 icon: "ti-credit-card"
 description: "가입 및 vm 가상머신 사용, 입금, 메신져 연동에 대해 설명이 나와있는 페이지입니다."
 type : "pages"

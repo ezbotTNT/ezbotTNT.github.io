@@ -1,7 +1,6 @@
 ---
 title: 용어 및 기능설명
 icon: "ti-credit-card"
-weight: 15
 pre: "<b>3. </b>"
 chapter: true
 ---

@@ -1,6 +1,5 @@
 ---
 title: "서비스 소개"
-date: 2018-12-28T11:02:05+06:00
 icon: "ti-arrow-circle-down"
 description: "사이트 및 서비스하는 툴에 대한 소개 페이지입니다. "
 type : "pages"

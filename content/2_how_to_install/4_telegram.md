@@ -1,6 +1,6 @@
 ---
 title: 텔레그램 연동하기
-weight: 25
+weight: 30
 pre: "<b>4. </b>"
 ---
 

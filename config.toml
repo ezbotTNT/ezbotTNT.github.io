@@ -45,17 +45,17 @@ enable=false
           [[Languages.en.menu.main]]
           name = "용어 및 기능설정"
           url = "3_document"
-          weight = 11
+          weight = 12
 
           [[Languages.en.menu.main]]
           name = "설치파일 다운로드"
           url = "4_install_file"
-          weight = 12
+          weight = 13
 
         [[Languages.en.menu.main]]
           name = "FaQ"
           url = "faq"
-          weight = 15
+          weight = 14
 
 
     # banner
