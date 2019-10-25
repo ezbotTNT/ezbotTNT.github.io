@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ezbotnt.com/1_intro/0start/</loc>
-    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ezbotnt.com/1_intro/1_bitmex/</loc>
     <lastmod>2018-12-28T11:02:05+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ezbotnt.com/4_install_file/1/</loc>
+    <loc>https://ezbotnt.com/1_intro/0/</loc>
+    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ezbotnt.com/4_install_file/1_bitmex/</loc>
   </url>
   
   <url>
@@ -21,11 +21,11 @@
   </url>
   
   <url>
-    <loc>https://ezbotnt.com/3_document/1/</loc>
+    <loc>https://ezbotnt.com/3_document/1_repodie/</loc>
   </url>
   
   <url>
-    <loc>https://ezbotnt.com/2_how_to_install/1/</loc>
+    <loc>https://ezbotnt.com/2_how_to_install/1_api/</loc>
   </url>
   
   <url>
@@ -37,7 +37,7 @@
   </url>
   
   <url>
-    <loc>https://ezbotnt.com/3_document/2/</loc>
+    <loc>https://ezbotnt.com/3_document/2_water/</loc>
   </url>
   
   <url>
@@ -45,7 +45,7 @@
   </url>
   
   <url>
-    <loc>https://ezbotnt.com/2_how_to_install/2/</loc>
+    <loc>https://ezbotnt.com/2_how_to_install/2_vm/</loc>
   </url>
   
   <url>
@@ -53,7 +53,7 @@
   </url>
   
   <url>
-    <loc>https://ezbotnt.com/3_document/3/</loc>
+    <loc>https://ezbotnt.com/3_document/3_option/</loc>
   </url>
   
   <url>

@@ -6,23 +6,11 @@
     <description>Recent content in 서비스 소개 on EzBot-BitMex        TNT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>The ezbio24.com site are Cooperate © [ezbot24](https://ezbot24.com/) 2019.</copyright>
+    <copyright>The ezbot24.com site are Cooperate © [ezbot24](https://ezbot24.com/) 2019.</copyright>
     <lastBuildDate>Fri, 28 Dec 2018 11:02:05 +0600</lastBuildDate>
     
 	<atom:link href="https://ezbotnt.com/1_intro/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>bot 서비스</title>
-      <link>https://ezbotnt.com/1_intro/0start/</link>
-      <pubDate>Fri, 28 Dec 2018 11:02:05 +0600</pubDate>
-      
-      <guid>https://ezbotnt.com/1_intro/0start/</guid>
-      <description>봇 이란 무엇인가요?  BOT이란, 미리 정해진 규칙으로 매수와 매도하는 자동 거래 프로그램을 말합니다.
- 암호 화폐 시장은 24시간 쉬는 시간 없이 매매가 이루어지기 때문에 사람이 매 순간 시장에 참여하여 거래를 하는 것은 불가능 합니다.
- EZ-BITMEX 은 프로그램이 동작하는 동안 매 순간 시장을 감시하여 최적의 순간에 매수와 매도를 진행합니다.
-  이 프로그램은 무엇을 하나요?  주식이나 코인을 가지고 있기만 한다면 가격이 오르는 경우 수익이며, 가격이 내리는 경우 손해를 봅니다.</description>
-    </item>
     
     <item>
       <title>www.bitmex.com</title>
@@ -35,6 +23,18 @@
  선물 시간은 전통적으로 우리나라에서는 기관이 하는 공매도/공매수 개념을 사용하던 시장입니다. 기본적인 리스크 및 지식이 필요하기에 정리해보았습니다.
   가입하기 아래 설명은 비트맥스 기능설명에서 제공하는 사이트 설명입니다.
  비트맥스는 비트코인을 활용한 다양한 파생상품 레버리지 계약의 매매 정보를 제공하는 P2P 방식의 거래 플랫폼입니다. 비트맥스에서의 거래는 오로지 비트코인만을 취급하기 때문에,다른 알트코인에 대한 매매가 있더라도 모든 손익은 비트코인에 해당합니다.</description>
+    </item>
+    
+    <item>
+      <title>서비스 소개</title>
+      <link>https://ezbotnt.com/1_intro/0/</link>
+      <pubDate>Fri, 28 Dec 2018 11:02:05 +0600</pubDate>
+      
+      <guid>https://ezbotnt.com/1_intro/0/</guid>
+      <description>봇 이란 무엇인가요?  BOT이란, 미리 정해진 규칙으로 매수와 매도하는 자동 거래 프로그램을 말합니다.
+ 암호 화폐 시장은 24시간 쉬는 시간 없이 매매가 이루어지기 때문에 사람이 매 순간 시장에 참여하여 거래를 하는 것은 불가능 합니다.
+ EZ-BITMEX 은 프로그램이 동작하는 동안 매 순간 시장을 감시하여 최적의 순간에 매수와 매도를 진행합니다.
+  이 프로그램은 무엇을 하나요?  주식이나 코인을 가지고 있기만 한다면 가격이 오르는 경우 수익이며, 가격이 내리는 경우 손해를 봅니다.</description>
     </item>
     
     <item>

@@ -6,17 +6,17 @@
     <description>Recent content in 설치파일 on EzBot-BitMex        TNT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>The ezbio24.com site are Cooperate © [ezbot24](https://ezbot24.com/) 2019.</copyright>
+    <copyright>The ezbot24.com site are Cooperate © [ezbot24](https://ezbot24.com/) 2019.</copyright>
     
 	<atom:link href="https://ezbotnt.com/4_install_file/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>EZbot-BitMEX</title>
-      <link>https://ezbotnt.com/4_install_file/1/</link>
+      <link>https://ezbotnt.com/4_install_file/1_bitmex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ezbotnt.com/4_install_file/1/</guid>
+      <guid>https://ezbotnt.com/4_install_file/1_bitmex/</guid>
       <description>EZBOT-BITMEX는 높은 승률로 고수익을 목표로 하는 봇입니다.
  BitMEX 거래 특성상 하이리스크를 동반하며, 봇의 설정에 따라 수익률 및 청산 위험도가 달라집니다.
  백테스트 툴로 설정된 봇의 위험도와 수익정도를 가늠할 수 있으며, 이를 통해 옵션별로 기간에 따라 수익률 및 위험도 판단이 가능합니다.
