@@ -8,14 +8,14 @@ type : "pages"
 
 - www.Bitmex.com 이라는 사이트를 소개합니다.</br>
 - EZ-bitmex는 위의 사이트에서 사용하는 API입니다.</br>
-- BackTest는 과거 1~2년 데이터를 통해 옵션의 수익 및 청산위험도를 예측할수 있습니다.
+- 시뮬레이션 도구인 BackTest Tool는 과거 1~2년 데이터를 통해 미리 해당 옵션의 수익 및 청산위험도를 예측할수 있습니다.
 
 
 ---
 
 #### 사이트 소개합니다.
 
->[서비스 간략 소개 바로가기](/1_intro/0start/)
+>[서비스 간략 소개 바로가기](/1_intro/0/)
 
 
 
@@ -32,6 +32,6 @@ type : "pages"
 
 ---
 
-#### BackTest Tool을 소개합니다.
+#### 시뮬레이션 도구인 BackTest Tool을 소개합니다.
 
 >[EZ-BackTest 툴 소개 바로가기](/1_intro/3_tool/)

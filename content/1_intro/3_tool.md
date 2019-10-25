@@ -1,7 +1,7 @@
 ---
 title: EZbot-BackTest
 weight: 20
-pre: "<b>4. </b>"
+pre: "<b>3. </b>"
 ---
 
 ![](/picture/Backtest1.png?width=100%&height=50%)
@@ -18,8 +18,8 @@ pre: "<b>4. </b>"
 
 - 해당 툴은 11월까지 무료로 사용가능하며, 이후 부분유료화가 진행될 예정입니다.
 
-{{< youtube COFrw0tHElc >}}
-- [동영상 링크](https://www.youtube.com/watch?v=COFrw0tHElc&feature=youtu.be&t=21)
+{{< youtube hGQn8iKCCjQ >}}
+- [동영상 링크](https://www.youtube.com/watch?v=hGQn8iKCCjQ&feature=youtu.be&t=21)
 
 >메뉴얼 및 다운로드 관련 바로가기 : 
 [EZ-BackTest 다운로드 페이지 바로가기](/4_install_file/tester_tool_file/)

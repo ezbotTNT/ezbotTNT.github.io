@@ -4,10 +4,10 @@ theme = "dot"
 
 # customize color
 [params]
-primaryColor = "#00008C"
-secondaryColor = "#ffffff"
-textColor = "#636363"
-textColorDark = "#242738"
+primaryColor = "#232941"
+secondaryColor = "#dfe4de"
+textColor = "#9C3063"
+textColorDark = "#111111"
 whiteColor = "#ffffff"
 enable=false
 
@@ -25,7 +25,7 @@ enable=false
   logo = ""
   # logo white is for homepage logo, you can use colorful logo too...
   logoWhite = ""
-  copyright = "The ezbio24.com site are Cooperate © [ezbot24](https://ezbot24.com/) 2019."
+  copyright = "The ezbot24.com site are Cooperate © [ezbot24](https://ezbot24.com/) 2019."
 
 
 
@@ -62,7 +62,7 @@ enable=false
     [Languages.en.params.banner]
       title = "EZbot 서비스 사이트 입니다."
       description = "기본적으로 사용하시기 전에 위의 내용을 다 읽어보시고 설치하시길 바랍니다. "
-      image = "images/banner.jpg"
+      image = "picture/API page.png"
       placeholder = "Have a question? Just ask here or enter terms"
 
     # Topics

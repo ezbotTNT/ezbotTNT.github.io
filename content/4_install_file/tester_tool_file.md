@@ -18,6 +18,7 @@ pre: "<b>2. </b>"
 
 - 다음 청산위험도는 다음과 같이 판단가능합니다.
 
+
 > 30 % 이 하     : 청산 위험 없음.</br>
 30 ~ 50 %   : 청산 위험 보통 수준.</br>
 50 ~ 80 %   : 청산 위험 높음.</br>
@@ -31,4 +32,5 @@ pre: "<b>2. </b>"
 동작동영상 동영상 링크 : https://www.youtube.com/watch?v=hGQn8iKCCjQ&feature=youtu.be&t=21
 
 >다운로드 링크 : [벡테스터 툴 다운로드](https://github.com/ezbotTNT/ezbotTNT.github.io/raw/develop/content/manual%20down/EZ-Backtest_BitMEX_Manual.pdf)
+
 
