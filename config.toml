@@ -4,10 +4,10 @@ theme = "dot"
 
 # customize color
 [params]
-primaryColor = "#232941"
-secondaryColor = "#dfe4de"
-textColor = "#9C3063"
-textColorDark = "#111111"
+primaryColor = "#00008C"
+secondaryColor = "#ffffff"
+textColor = "#636363"
+textColorDark = "#242738"
 whiteColor = "#ffffff"
 enable=false
 
