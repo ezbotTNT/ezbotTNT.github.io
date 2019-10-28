@@ -821,7 +821,8 @@
 	    min-height: 760px;
 	}
 	#header-02 {
-	    min-height: 1650px;
+	    /*min-height: 1650px;*/
+		min-height: 1000px;
 	}
 	#about_cryptonic_02 {
 	    padding: 150px 0 0;
