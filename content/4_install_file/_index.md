@@ -28,13 +28,3 @@ chapter: true
 
 ---
 
-
-##### 연락가능한 채널
-
->[카카오톡 오픈채팅](https://open.kakao.com/o/g8WJP1Hb)</br>
-[텔레그램 - 1:1 문의] (https://t.me/@ezbitbot) </br>
-[문의메일 : ezbitbot@gmail.com](mailto:ezbitbot@gmail.com)
-
-- 궁금하신 사항은 아래 채널을 통해 문의주시면 답변드리겠습니다.</br>
-
----
