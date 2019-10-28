@@ -18,6 +18,11 @@
   {{ "<!-- fonts -->" | safeHTML }}
   <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap" rel="stylesheet">
 
+  <!-- main style-->
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}plugins/cryptonio/css/style.css">
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}plugins/cryptonio/css/cryptonio.css">
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}plugins/cryptonio/css/responsive.css">
+
   <style>
   :root{
     --primary-color:{{ .Site.Params.primaryColor }};
