@@ -38,4 +38,7 @@ pre: "<b>2. </b>"
 >효율적인 봇 이용을 위하여 BACKTEST 툴을 적극 활용 권장드립니다.</br>
 다운로드 링크 : [벡테스터 툴 다운로드](https://github.com/ezbotTNT/ezbotTNT.github.io/raw/develop/content/manual%20down/EZ-Backtest_BitMEX_Manual.pdf)
 
+---
+
+> [옵션 및 설치 메뉴얼 다운로드](https://github.com/ezbotTNT/ezbotTNT.github.io/raw/develop/content/manual%20down/EZ-Backtest_BitMEX_Manual.pdf)
 

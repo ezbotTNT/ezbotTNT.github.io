@@ -8,7 +8,7 @@ type : "pages"
 
 - www.BitMEX.com 이라는 사이트를 소개합니다.
 
-- EZ-bitmex는 위의 사이트에서 사용하는 API입니다.</br>
+- EZbot-BitMEX 는 위의 사이트에서 사용하는 API입니다.</br>
 - 시뮬레이션 도구인 BackTEST Tool는 과거 1~2년 데이터를 통해 미리 해당 옵션의 수익 및 청산위험도를 예측할수 있습니다.
 
 <!--
@@ -22,7 +22,7 @@ type : "pages"
 
 
 <p style="font-size:18px; color:#636363;">
- &bull; EZ-bitmex는 위의 사이트에서 사용하는 API입니다.
+ &bull; EZbot-BitMEX 는 위의 사이트에서 사용하는 API입니다.
 </p>
 
 <p style="font-size:18px; color:#636363;">
@@ -40,7 +40,7 @@ type : "pages"
 
 <ul>
     <li style="font-size:18px; color:#636363;font-family: 굴림체,'NanumSquareWeb';"> 마진거래 사이트인 비트맥스(www.BitMEX.com)를 소개합니다.</li>
-    <li style="font-size:18px; color:#636363;font-family: 굴림체,'NanumSquareWeb';"> 비트맥스에서 사용 가능한 프로그램 매매툴인 Ez-BitMEX에 대해 소개합니다. </li>
+    <li style="font-size:18px; color:#636363;font-family: 굴림체,'NanumSquareWeb';"> 비트맥스에서 사용 가능한 프로그램 매매툴인 EZbot-BitMEX 에 대해 소개합니다. </li>
     <li style="font-size:18px; color:#636363;font-family: 굴림체,'NanumSquareWeb';"> 
     시뮬레이션이 가능한
   <span style="color: #00008c;">BackTEST</span>

@@ -1,5 +1,5 @@
 baseURL = "https://ezbotnt.com/"
-title = "ezbot TNT"
+title = "Ezbot TNT"
 theme = "dot"
 
 # customize color
@@ -18,7 +18,7 @@ enable=false
   languageName = "En"
   weight = 1
   languageCode = "en-us"
-  title = "EzBot-BitMex        TNT"
+  title = "EZbot BitMEX - 암호화폐 자동거래 솔루션"
   dateFormat = "23 October 2019"
   home = "Home"
   # logo is for all page

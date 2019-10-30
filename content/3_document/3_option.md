@@ -22,7 +22,5 @@ pre: "<b>3. </b>"
 
 - 세부 자세한 옵션에 대한 기능은 아래 메뉴얼 참고 부탁드립니다. 
 
+> [옵션 및 설치 메뉴얼 다운로드](https://github.com/ezbotTNT/ezbotTNT.github.io/raw/develop/content/manual%20down/EZ-BitMEX_Manual.pdf)
 
-> [옵션 설정 메뉴얼 다운로드](https://github.com/ezbotTNT/ezbotTNT.github.io/raw/develop/content/3_document/3.files/EZ-BitMEX_Manual.pdf)
-
----
