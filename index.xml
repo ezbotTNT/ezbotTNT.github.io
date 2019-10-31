@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>EzBot-BitMex        TNT</title>
+    <title>EZbot BitMEX - 암호화폐 자동거래 솔루션</title>
     <link>https://ezbotnt.com/</link>
-    <description>Recent content on EzBot-BitMex        TNT</description>
+    <description>Recent content on EZbot BitMEX - 암호화폐 자동거래 솔루션</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>The ezbot24.com site are Cooperate © [ezbot24](https://ezbot24.com/) 2019.</copyright>
@@ -179,7 +179,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ezbotnt.com/2_how_to_install/4_telegram/</guid>
-      <description> 텔레그램 연동하기 프로그램을 설치하면 EZ-BitMEX 거래 정보를 텔레그램 메신저로 받아서 확인할 수 있습니다.
+      <description> 텔레그램 연동하기 프로그램을 설치하면 EZbot-BitMEX 거래 정보를 텔레그램 메신저로 받아서 확인할 수 있습니다.
 연동하는 방법은 다음과 같습니다.
 텔레그램 설치 링크 윈도우 사용자 : Windows 사용자 다운로드 하기
 MAC 사용자 : MAC 사용자 다운로드 하기
