@@ -448,7 +448,9 @@ select {
 	font-weight: 600;
 }
 .header .navbar .language .dropdown {
-	margin-left: 25px;
+	/*margin-left: 25px;*/
+	margin-left: auto;
+	margin-right: 20px;
 }
 .header .navbar .language .dropdown span {
 	color: #ffffff;

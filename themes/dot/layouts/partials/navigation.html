@@ -10,7 +10,12 @@
       <!--<span class="navbar-toggler-icon"></span>-->
     <!--</button>-->
 
+    {{ if eq .Site.LanguageCode "ko" }}
+    <a class="navbar-brand" href="{{ .Site.BaseURL }}ko">
+    {{ else }}
     <a class="navbar-brand" href="{{ .Site.BaseURL }}">
+    {{ end }}
+
       {{ $logo:= .Site.Params.logo }}
       {{ $logoWhite:= .Site.Params.logoWhite }}
       {{ if (or (eq $logo "") (eq $logoWhite "")) }}
@@ -27,7 +32,11 @@
       <ul class="navbar-nav ml-auto">
         <!-- dot theme 가져옴 -->
         <li class="nav-item">
+          {{ if eq .Site.LanguageCode "ko" }}
+          <a data-scroll class="nav-link text-dark" href="{{ .Site.BaseURL }}ko">{{ .Site.Params.home }}</a>
+          {{ else }}
           <a data-scroll class="nav-link text-dark" href="{{ .Site.BaseURL }}">{{ .Site.Params.home }}</a>
+          {{ end }}
         </li>
         {{ range .Site.Menus.main }}
         {{ if .HasChildren }}
@@ -60,8 +69,7 @@
       {{ if eq $translation.Lang .Lang }}
       {{ $selected := false }}
       {{ if eq $pageLang .Lang}}
-      <option id="{{ $translation.Language }}" value="{{ $translation.URL }}" selected>{{ .LanguageName }}
-      </option>
+      <option id="{{ $translation.Language }}" value="{{ $translation.URL }}" selected>{{ .LanguageName }}</option>
       {{ else }}
       <option id="{{ $translation.Language }}" value="{{ $translation.URL }}">{{ .LanguageName }}</option>
       {{ end }}
