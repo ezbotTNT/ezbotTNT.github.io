@@ -38,7 +38,7 @@ enable=false
           weight = 10
 
          [[Languages.en.menu.main]]
-          name = "설치하기"
+          name = "설치하는법"
           url = "2_how_to_install"
           weight = 11
 
