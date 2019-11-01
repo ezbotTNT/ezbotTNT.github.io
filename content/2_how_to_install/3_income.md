@@ -11,10 +11,10 @@ pre: "<b>3. </b>"
 - 다른 한국 거래소에서 비트를 구입하셔서 입금해야 합니다.
 
 >한국코인 거래소 및 제휴은행 목록</br></br>
-1. Updit    - 기업은행</br>
-2. Bithumb  - 농협은행</br>
-3. Coinage  - 농협은행</br>
-4. Korbit   - 신한은행</br>
+1. 기업은행 - Upbit</br>
+2. 농협은행 - Bithumb</br>
+3. 농협은행 - Coinone</br>
+4. 신한은행 - Korbit</br>
 
 ---
 

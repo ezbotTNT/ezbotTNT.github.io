@@ -6,9 +6,9 @@ theme = "dot"
 [params]
 primaryColor = "#00008C"
 secondaryColor = "#ffffff"
-textColor = "#636363"
+textColor = "#111111"
 textColorDark = "#242738"
-whiteColor = "#ffffff"
+whiteColor = "#636363"
 enable=false
 
 [Languages]

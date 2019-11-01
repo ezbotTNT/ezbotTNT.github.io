@@ -6,10 +6,10 @@ type : "pages"
 ---
 
 
-- www.BitMEX.com 이라는 사이트를 소개합니다.
+- 비트맥스(www.bitmex.com)에 대해 소개합니다.
 
-- EZbot-BitMEX 는 위의 사이트에서 사용하는 API입니다.</br>
-- 시뮬레이션 도구인 BackTEST Tool는 과거 1~2년 데이터를 통해 미리 해당 옵션의 수익 및 청산위험도를 예측할수 있습니다.
+- 이지봇(EZbot-BitMEX)은 위의 사이트에서 사용하는 API입니다.</br>
+- 시뮬레이션 도구인 BackTEST Tool는 과거 데이터를 통해 해당 옵션의 수익 및 청산위험도를 예측가능합니다.
 
 <!--
 
@@ -61,16 +61,16 @@ type : "pages"
 
 #### 사이트 소개합니다.
 
->[BitMEX 사이트 소개 바로가기](/1_intro/1_bitmex/)
+>[비트맥스 사이트 소개 바로가기](/1_intro/1_bitmex/)
 
 ---
 
 #### 봇인 EZBOT-BITMEX를 소개합니다.
 
->[EZBOT-BitMEX 봇 소개 바로가기](/1_intro/2_bot/)
+>[EZBot-BitMEX 봇 소개 바로가기](/1_intro/2_bot/)
 
 ---
 
 #### 시뮬레이션 도구인 BackTEST Tool을 소개합니다.
 
->[EZ-BackTEST 툴 소개 바로가기](/1_intro/3_tool/)
+>[EZbot-BackTEST 툴 소개 바로가기](/1_intro/3_tool/)

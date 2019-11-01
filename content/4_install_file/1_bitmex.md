@@ -22,7 +22,7 @@ pre: "<b>1. </b>"
 ※ 절대 처음부터 큰 돈을 넣지마시고 청산 및 안전도를 BACKTEST 툴로 확인한 뒤 사용하시길 바랍니다.</br>
 ※ 해당 봇은 거래 주문만 가능한 봇입니다. 입금이나 출금은 자기자신이 실행해야 합니다. 
 
-> 다운로드 링크 : [EZbot-BitMEX _TNT.exe 실행 파일 다운로드](http://www.ezbot24.com/shorturl/VPH6UI55AI0GV)
+> 다운로드 링크 : [EZbot-BitMEX 실행 파일 다운로드](http://www.ezbot24.com/shorturl/VPH6UI55AI0GV)
 
 ---
 

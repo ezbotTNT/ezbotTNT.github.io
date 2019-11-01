@@ -26,9 +26,9 @@ pre: "<b>2. </b>"
 ![](/picture/googlecloudpage5.png?width=100%&height=50%)
 ![](/picture/googlecloudpage6.png?width=100%&height=50%)
 
-##### 가상머신 할당이 완료되었습니다.
+- 가상머신 할당이 완료되었습니다.
 
-
+---
 
 #### 이제 24시간 사용 가능한 원격 컴퓨터가 생성되었습니다!!!!!
 

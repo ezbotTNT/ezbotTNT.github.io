@@ -5,7 +5,6 @@ pre: "<b>4. </b>"
 ---
 
 
-## 텔레그램 연동하기 
 
 프로그램을 설치하면 EZbot-BitMEX  거래 정보를 텔레그램 메신저로 받아서 확인할 수 있습니다.
 
@@ -26,7 +25,7 @@ MAC 사용자 : [MAC 사용자 다운로드 하기](https://play.google.com/stor
 
 - 텔레그램을 설치하였으면 해당 링크를 실행하여 텔레그램에 접속합니다.
 
-[EZBOT Telegram](https://t.me/ezbot_bitmex_notice_bot)
+[이지봇 텔레그램에 연결하기 링크 : EZBOT Telegram](https://t.me/ezbot_bitmex_notice_bot)
 
 ![](/picture/telegram1.png?width=100%&height=50%)
 
