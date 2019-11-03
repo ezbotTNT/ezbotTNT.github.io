@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>EZbot-BitMEX 다운</title>
+      <title>이지봇 (EZbot-BitMEX) 다운로드</title>
       <link>https://ezbotnt.com/4_install_file/1_bitmex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -22,20 +22,19 @@
  백테스트 툴로 설정된 봇의 위험도와 수익정도를 가늠할 수 있으며, 이를 통해 옵션별로 기간에 따라 수익률 및 위험도 판단이 가능합니다.
  EZBOT-BitMEX 봇은 아래 링크를 통해 가입한 경우에 한해 이용이 가능합니다.
    가입링크 : https://www.BitMEX.com/register
- ※ 베타서비스 기간(2019년 10월 14일 부터 ~ 약 1개월이상) 동안 자산에 상관없이 무료로 이용가능합니다.</description>
+ ※ 베타서비스 기간 동안 자산에 상관없이 무료로 이용가능합니다. ※ 베타서비스 기간 이후에도 약 0.</description>
     </item>
     
     <item>
-      <title>EZbot-BackTEST 다운</title>
+      <title>시뮬레이션 (EZbot-BackTEST) 다운로드</title>
       <link>https://ezbotnt.com/4_install_file/tester_tool_file/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ezbotnt.com/4_install_file/tester_tool_file/</guid>
       <description>BACKTEST 툴은 EZbot에 설정된 수치의 효율성을 판단하는데 도움이 되는 시뮬레이션 프로그램입니다.
- 적용된 로직은 EZBOT-BITMEX와 완전 동일합니다.
- 과거차트를 활용하여 적용할 설정에 대한 수익률 및 청산위험도를 확인 가능합니다. (비트 2017년 1월 1일부터,이더 2018년 9월 2일부터 테스트 가능합니다.)
+ 적용된 로직은 이지봇(EZBOT-BITMEX)와 완전 동일합니다.
+ 과거차트를 활용하여 적용할 설정에 대한 수익률 및 청산위험도를 확인 가능합니다. (비트 2017년 1월 1일부터,이더 2018년 8월 3일부터 테스트 가능합니다.)
  비트코인은 급격한 가격 변동이 있는 경우가 많기 때문에 리스크 관리가 필요합니다.  리스크에 판단은 이용하는 사용자의 몫이나 청산안정도의 경우 기본적으로 다음과 같이 판단하고 있습니다
- 다음 청산위험도는 다음과 같이 판단가능합니다.
    30 % 이 하 : 청산 위험 없음.</description>
     </item>
     
