@@ -44,10 +44,10 @@ pre: "<b>2. </b>"
 
 - 비트코인 안전설정 동작동영상 </br> 기간 2018.09 ~ 2019. 09 </br>종목 : XBTUSD(비트코인)
 
-{{< youtube yUl1LAFuHis >}}
+{{< youtube SfVTaUP_nYA >}}
 
 
-다른 옵션의 결과값에 대해 궁금하시다면? : [Youtube 바로가기](https://www.youtube.com/watch?v=yUl1LAFuHis&feature=youtu.be&t=21)
+다른 옵션의 결과값에 대해 궁금하시다면? : [Youtube 바로가기](https://www.youtube.com/watch?v=SfVTaUP_nYA&feature=youtu.be&t=21)
 
 
 청산안정도의 경우 기본적으로 다음과 같이 판단하고 있습니다.
